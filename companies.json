@@ -1,0 +1,598 @@
+[
+ {
+  "name": "Barclays",
+  "aliases": [
+   "Barclays"
+  ]
+ },
+ {
+  "name": "HSBC Holdings",
+  "aliases": [
+   "HSBC",
+   "HSBC Holdings"
+  ]
+ },
+ {
+  "name": "Lloyds Banking Group",
+  "aliases": [
+   "Lloyds",
+   "Lloyds Banking Group"
+  ]
+ },
+ {
+  "name": "NatWest Group",
+  "aliases": [
+   "NatWest",
+   "NatWest Group"
+  ]
+ },
+ {
+  "name": "Standard Chartered",
+  "aliases": [
+   "Standard Chartered"
+  ]
+ },
+ {
+  "name": "Aviva",
+  "aliases": [
+   "Aviva"
+  ]
+ },
+ {
+  "name": "Legal & General",
+  "aliases": [
+   "L&G",
+   "Legal & General"
+  ]
+ },
+ {
+  "name": "M&G",
+  "aliases": [
+   "M&G"
+  ]
+ },
+ {
+  "name": "Prudential",
+  "aliases": [
+   "Prudential"
+  ]
+ },
+ {
+  "name": "Schroders",
+  "aliases": [
+   "Schroders"
+  ]
+ },
+ {
+  "name": "3i Group",
+  "aliases": [
+   "3i Group"
+  ]
+ },
+ {
+  "name": "St James's Place",
+  "aliases": [
+   "St James's Place"
+  ]
+ },
+ {
+  "name": "LSEG",
+  "aliases": [
+   "LSEG",
+   "London Stock Exchange"
+  ]
+ },
+ {
+  "name": "Admiral",
+  "aliases": [
+   "Admiral"
+  ]
+ },
+ {
+  "name": "Beazley",
+  "aliases": [
+   "Beazley"
+  ]
+ },
+ {
+  "name": "Hiscox",
+  "aliases": [
+   "Hiscox"
+  ]
+ },
+ {
+  "name": "Intermediate Capital Group",
+  "aliases": [
+   "ICG",
+   "Intermediate Capital",
+   "Intermediate Capital Group"
+  ]
+ },
+ {
+  "name": "Phoenix Group",
+  "aliases": [
+   "Phoenix",
+   "Phoenix Group"
+  ]
+ },
+ {
+  "name": "Airtel Africa",
+  "aliases": [
+   "Airtel Africa"
+  ]
+ },
+ {
+  "name": "AstraZeneca",
+  "aliases": [
+   "AstraZeneca"
+  ]
+ },
+ {
+  "name": "GSK",
+  "aliases": [
+   "GSK"
+  ]
+ },
+ {
+  "name": "Haleon",
+  "aliases": [
+   "Haleon"
+  ]
+ },
+ {
+  "name": "Smith & Nephew",
+  "aliases": [
+   "Smith & Nephew"
+  ]
+ },
+ {
+  "name": "Convatec Group",
+  "aliases": [
+   "Convatec",
+   "Convatec Group"
+  ]
+ },
+ {
+  "name": "Hikma Pharmaceuticals",
+  "aliases": [
+   "Hikma Pharmaceuticals"
+  ]
+ },
+ {
+  "name": "Unilever",
+  "aliases": [
+   "Unilever"
+  ]
+ },
+ {
+  "name": "Reckitt Benckiser",
+  "aliases": [
+   "Reckitt Benckiser"
+  ]
+ },
+ {
+  "name": "Diageo",
+  "aliases": [
+   "Diageo"
+  ]
+ },
+ {
+  "name": "British American Tobacco",
+  "aliases": [
+   "BAT",
+   "British American Tobacco"
+  ]
+ },
+ {
+  "name": "Imperial Brands",
+  "aliases": [
+   "Imperial Brands"
+  ]
+ },
+ {
+  "name": "Tesco",
+  "aliases": [
+   "Tesco"
+  ]
+ },
+ {
+  "name": "J Sainsbury",
+  "aliases": [
+   "J Sainsbury",
+   "Sainsbury",
+   "Sainsbury's"
+  ]
+ },
+ {
+  "name": "Marks & Spencer",
+  "aliases": [
+   "M&S",
+   "Marks & Spencer"
+  ]
+ },
+ {
+  "name": "Kingfisher",
+  "aliases": [
+   "Kingfisher"
+  ]
+ },
+ {
+  "name": "Compass Group",
+  "aliases": [
+   "Compass",
+   "Compass Group"
+  ]
+ },
+ {
+  "name": "Games Workshop",
+  "aliases": [
+   "Games Workshop"
+  ]
+ },
+ {
+  "name": "Associated British Foods",
+  "aliases": [
+   "AB Foods",
+   "Associated British Foods",
+   "Primark"
+  ]
+ },
+ {
+  "name": "Next",
+  "aliases": [
+   "Next"
+  ]
+ },
+ {
+  "name": "JD Sports Fashion",
+  "aliases": [
+   "JD Sports Fashion"
+  ]
+ },
+ {
+  "name": "Coca-Cola Europacific Partners",
+  "aliases": [
+   "Coca-Cola Europacific Partners"
+  ]
+ },
+ {
+  "name": "Coca-Cola HBC",
+  "aliases": [
+   "Coca-Cola HBC"
+  ]
+ },
+ {
+  "name": "Rio Tinto",
+  "aliases": [
+   "Rio Tinto"
+  ]
+ },
+ {
+  "name": "Glencore",
+  "aliases": [
+   "Glencore"
+  ]
+ },
+ {
+  "name": "Anglo American",
+  "aliases": [
+   "Anglo American"
+  ]
+ },
+ {
+  "name": "Antofagasta",
+  "aliases": [
+   "Antofagasta"
+  ]
+ },
+ {
+  "name": "Fresnillo",
+  "aliases": [
+   "Fresnillo"
+  ]
+ },
+ {
+  "name": "Endeavour Mining",
+  "aliases": [
+   "Endeavour Mining"
+  ]
+ },
+ {
+  "name": "Mondi",
+  "aliases": [
+   "Mondi"
+  ]
+ },
+ {
+  "name": "Shell",
+  "aliases": [
+   "Shell"
+  ]
+ },
+ {
+  "name": "BP",
+  "aliases": [
+   "BP"
+  ]
+ },
+ {
+  "name": "National Grid",
+  "aliases": [
+   "National Grid"
+  ]
+ },
+ {
+  "name": "SSE",
+  "aliases": [
+   "SSE"
+  ]
+ },
+ {
+  "name": "Centrica",
+  "aliases": [
+   "Centrica"
+  ]
+ },
+ {
+  "name": "Severn Trent",
+  "aliases": [
+   "Severn Trent"
+  ]
+ },
+ {
+  "name": "United Utilities",
+  "aliases": [
+   "United Utilities"
+  ]
+ },
+ {
+  "name": "BAE Systems",
+  "aliases": [
+   "BAE Systems"
+  ]
+ },
+ {
+  "name": "Rolls-Royce",
+  "aliases": [
+   "Rolls-Royce"
+  ]
+ },
+ {
+  "name": "Smiths Group",
+  "aliases": [
+   "Smiths",
+   "Smiths Group"
+  ]
+ },
+ {
+  "name": "Melrose Industries",
+  "aliases": [
+   "Melrose Industries"
+  ]
+ },
+ {
+  "name": "Croda International",
+  "aliases": [
+   "Croda International"
+  ]
+ },
+ {
+  "name": "Rentokil Initial",
+  "aliases": [
+   "Rentokil Initial"
+  ]
+ },
+ {
+  "name": "DCC",
+  "aliases": [
+   "DCC"
+  ]
+ },
+ {
+  "name": "Ashtead",
+  "aliases": [
+   "Ashtead"
+  ]
+ },
+ {
+  "name": "Bunzl",
+  "aliases": [
+   "Bunzl"
+  ]
+ },
+ {
+  "name": "Intertek",
+  "aliases": [
+   "Intertek"
+  ]
+ },
+ {
+  "name": "IMI",
+  "aliases": [
+   "IMI"
+  ]
+ },
+ {
+  "name": "Weir Group",
+  "aliases": [
+   "Weir",
+   "Weir Group"
+  ]
+ },
+ {
+  "name": "Halma",
+  "aliases": [
+   "Halma"
+  ]
+ },
+ {
+  "name": "Spirax",
+  "aliases": [
+   "Spirax"
+  ]
+ },
+ {
+  "name": "Babcock International",
+  "aliases": [
+   "Babcock International"
+  ]
+ },
+ {
+  "name": "Howden Joinery",
+  "aliases": [
+   "Howden Joinery"
+  ]
+ },
+ {
+  "name": "Diploma",
+  "aliases": [
+   "Diploma"
+  ]
+ },
+ {
+  "name": "Vodafone",
+  "aliases": [
+   "Vodafone"
+  ]
+ },
+ {
+  "name": "BT Group",
+  "aliases": [
+   "BT",
+   "BT Group"
+  ]
+ },
+ {
+  "name": "RELX",
+  "aliases": [
+   "RELX"
+  ]
+ },
+ {
+  "name": "Experian",
+  "aliases": [
+   "Experian"
+  ]
+ },
+ {
+  "name": "Informa",
+  "aliases": [
+   "Informa"
+  ]
+ },
+ {
+  "name": "Pearson",
+  "aliases": [
+   "Pearson"
+  ]
+ },
+ {
+  "name": "WPP",
+  "aliases": [
+   "WPP"
+  ]
+ },
+ {
+  "name": "Sage Group",
+  "aliases": [
+   "Sage",
+   "Sage Group"
+  ]
+ },
+ {
+  "name": "Rightmove",
+  "aliases": [
+   "Rightmove"
+  ]
+ },
+ {
+  "name": "Auto Trader",
+  "aliases": [
+   "Auto Trader",
+   "AutoTrader"
+  ]
+ },
+ {
+  "name": "IAG",
+  "aliases": [
+   "British Airways",
+   "IAG"
+  ]
+ },
+ {
+  "name": "InterContinental Hotels",
+  "aliases": [
+   "IHG",
+   "InterContinental Hotels"
+  ]
+ },
+ {
+  "name": "Whitbread",
+  "aliases": [
+   "Whitbread"
+  ]
+ },
+ {
+  "name": "Entain",
+  "aliases": [
+   "Entain"
+  ]
+ },
+ {
+  "name": "easyJet",
+  "aliases": [
+   "easyJet"
+  ]
+ },
+ {
+  "name": "Taylor Wimpey",
+  "aliases": [
+   "Taylor Wimpey"
+  ]
+ },
+ {
+  "name": "Barratt Redrow",
+  "aliases": [
+   "Barratt",
+   "Barratt Redrow"
+  ]
+ },
+ {
+  "name": "Persimmon",
+  "aliases": [
+   "Persimmon"
+  ]
+ },
+ {
+  "name": "Berkeley Group",
+  "aliases": [
+   "Berkeley",
+   "Berkeley Group"
+  ]
+ },
+ {
+  "name": "Land Securities",
+  "aliases": [
+   "Land Securities"
+  ]
+ },
+ {
+  "name": "SEGRO",
+  "aliases": [
+   "SEGRO"
+  ]
+ },
+ {
+  "name": "LondonMetric",
+  "aliases": [
+   "LondonMetric"
+  ]
+ },
+ {
+  "name": "Unite Group",
+  "aliases": [
+   "Unite",
+   "Unite Group"
+  ]
+ }
+]
