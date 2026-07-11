@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-07-10T19:14:23.000Z",
+ "updatedAt": "2026-07-11T07:43:07.969Z",
  "companies": {
   "Vodafone": [
    {
-    "h": "French billionaire Xavier Niel becomes Vodafone\u2019s top shareholder",
+    "h": "French billionaire Xavier Niel becomes Vodafone’s top shareholder",
     "u": "https://www.ft.com/content/2614a765-bb4d-4607-9a60-9f0b6c521a79",
     "d": "2026-07-10"
    },
@@ -16,11 +16,16 @@
     "h": "Xavier Niel becomes biggest Vodafone shareholder with $6 billion stake",
     "u": "https://www.business-standard.com/world-news/xavier-niel-becomes-biggest-vodafone-shareholder-with-6-billion-stake-126071000474_1.html",
     "d": "2026-07-10"
+   },
+   {
+    "h": "Billionaire Xavier Niel could be the jolt Vodafone needs",
+    "u": "https://www.ft.com/content/b93b6144-4e80-43f2-a368-a58bf663b309",
+    "d": "2026-07-10"
    }
   ],
   "easyJet": [
    {
-    "h": "Apollo trumps Castlelake with \u00a35.7bn deal to buy easyJet",
+    "h": "Apollo trumps Castlelake with £5.7bn deal to buy easyJet",
     "u": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
     "d": "2026-07-10"
    },
@@ -35,19 +40,24 @@
     "d": "2026-07-10"
    },
    {
-    "h": "Apollo hijacks easyJet takeover with \u00a35.7bn bid, trumping Castlelake",
+    "h": "Apollo hijacks easyJet takeover with £5.7bn bid, trumping Castlelake",
     "u": "https://uk.finance.yahoo.com/news/apollo-hijacks-easyjet-takeover-5-085636314.html",
     "d": "2026-07-10"
    },
    {
-    "h": "EasyJet withdraws support for Castlelake offer as Apollo swoops in with superior \u00a35.7 billion bid",
+    "h": "EasyJet withdraws support for Castlelake offer as Apollo swoops in with superior £5.7 billion bid",
     "u": "https://uk.finance.yahoo.com/news/easyjet-withdraws-support-castlelake-offer-083313568.html",
+    "d": "2026-07-10"
+   },
+   {
+    "h": "‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid",
+    "u": "https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44",
     "d": "2026-07-10"
    }
   ],
   "DCC": [
    {
-    "h": "Founder of energy group DCC blasts board for backing takeover \u2018on the cheap\u2019",
+    "h": "Founder of energy group DCC blasts board for backing takeover ‘on the cheap’",
     "u": "https://www.ft.com/content/7e97139f-4b7a-4a72-bc33-1311e4cb20ad",
     "d": "2026-07-10"
    },
@@ -98,7 +108,7 @@
   ],
   "Shell": [
    {
-    "h": "UAE\u2019s Adnoc strikes $1bn deal for Shell\u2019s South African fuels business",
+    "h": "UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business",
     "u": "https://www.ft.com/content/c9774e9d-27c4-4a75-93ab-f8c99d0c4a51",
     "d": "2026-07-07"
    },
@@ -120,11 +130,6 @@
     "h": "Lloyds sticks with 1.9bn pound set-aside for motor finance redress scheme",
     "u": "https://www.motortrader.com/motor-trader-news/automotive-news/lloyds-sticks-with-1-9bn-set-aside-for-motor-finance-redress-scheme-07-04-2026",
     "d": "2026-07-04"
-   },
-   {
-    "h": "Lloyds Banking Group appoints Danuta Gray as non-executive director and chair of Scottish Widows",
-    "u": "https://www.stockopedia.com/share-prices/lloyds-banking-LON:LLD1/news/reg-lloyds-banking-group-board-change-urn:newsml:reuters.com:20260610:nRSJ7766Ha/",
-    "d": "2026-06-10"
    }
   ],
   "NatWest Group": [
@@ -158,13 +163,6 @@
     "d": "2026-07-09"
    }
   ],
-  "Legal & General": [
-   {
-    "h": "L&G appoints Zoe Wimborne as Group Chief Risk Officer",
-    "u": "https://group.legalandgeneral.com/newsroom/press-releases/2026/6/lg-appoints-zoe-wimborne-as-group-chief-risk-officer/",
-    "d": "2026-06-10"
-   }
-  ],
   "M&G": [
    {
     "h": "M&G plc announces board changes effective September",
@@ -191,13 +189,6 @@
     "h": "Geraint Jones to retire as Admiral Group CFO with Rachel Lewis assuming the role from July 2026",
     "u": "https://www.admiralgroup.co.uk/news-releases/news-release-details/geraint-jones-retire-group-cfo-rachel-lewis-assuming-role-july",
     "d": "2026-07-01"
-   }
-  ],
-  "Beazley": [
-   {
-    "h": "Zurich Insurance lifts voting stake in Beazley to just over 6%",
-    "u": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3164965/zurich-insurance-lifts-voting-stake-in-beazley-to-just-over-6/",
-    "d": "2026-06-10"
    }
   ],
   "Hiscox": [
@@ -379,7 +370,7 @@
   ],
   "Smiths Group": [
    {
-    "h": "Smiths Group completes \u00a32bn sale of Smiths Detection to CVC Capital Partners, outlines \u00a31.5bn shareholder return plan",
+    "h": "Smiths Group completes £2bn sale of Smiths Detection to CVC Capital Partners, outlines £1.5bn shareholder return plan",
     "u": "https://www.smiths.com/news-and-insights/news/2026/completion-of-smiths-detection-sale",
     "d": "2026-06-30"
    }
@@ -407,7 +398,7 @@
   ],
   "Intertek": [
    {
-    "h": "EQT buys UK's Intertek for \u00a39.3 billion ($14.5bn) in latest LSE exit, Britain's third-largest take-private ever",
+    "h": "EQT buys UK's Intertek for £9.3 billion ($14.5bn) in latest LSE exit, Britain's third-largest take-private ever",
     "u": "https://www.bloomberg.com/news/articles/2026-06-18/eqt-buys-uk-s-intertek-for-9-3-billion-in-latest-lse-exit",
     "d": "2026-06-18"
    }
@@ -469,7 +460,7 @@
   ],
   "Taylor Wimpey": [
    {
-    "h": "Housebuilding giants hit with \u00a34.5bn lawsuit for allegedly overcharging buyers",
+    "h": "Housebuilding giants hit with £4.5bn lawsuit for allegedly overcharging buyers",
     "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
     "d": "2026-07-01"
    }
@@ -481,21 +472,21 @@
     "d": "2026-07-02"
    },
    {
-    "h": "Housebuilding giants including Barratt Redrow hit with \u00a34.5bn lawsuit for allegedly overcharging buyers",
+    "h": "Housebuilding giants including Barratt Redrow hit with £4.5bn lawsuit for allegedly overcharging buyers",
     "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
     "d": "2026-07-01"
    }
   ],
   "Persimmon": [
    {
-    "h": "Housebuilding giants including Persimmon hit with \u00a34.5bn lawsuit for allegedly overcharging buyers",
+    "h": "Housebuilding giants including Persimmon hit with £4.5bn lawsuit for allegedly overcharging buyers",
     "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
     "d": "2026-07-01"
    }
   ],
   "Berkeley Group": [
    {
-    "h": "Housebuilding giants including Berkeley hit with \u00a34.5bn lawsuit for allegedly overcharging buyers",
+    "h": "Housebuilding giants including Berkeley hit with £4.5bn lawsuit for allegedly overcharging buyers",
     "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
     "d": "2026-07-01"
    }
@@ -517,7 +508,7 @@
     "d": "2026-07-06"
    },
    {
-    "h": "Segro rejects \u00a312.6 billion takeover proposal from Prologis",
+    "h": "Segro rejects £12.6 billion takeover proposal from Prologis",
     "u": "https://www.bloomberg.com/news/articles/2026-06-24/uk-landlord-segro-rejects-12-6-billion-prologis-bid",
     "d": "2026-06-24"
    }
