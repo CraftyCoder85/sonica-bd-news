@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T08:53:48.656Z",
+ "updatedAt": "2026-07-14T07:49:57.675Z",
  "companies": {
   "Vodafone": [
    {
@@ -107,6 +107,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "Shell sells Indian wind and solar business for $1.8bn",
+    "u": "https://www.ft.com/content/e9a826a4-db60-458b-8886-a94a3a111cff",
+    "d": "2026-07-13"
+   },
    {
     "h": "UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business",
     "u": "https://www.ft.com/content/c9774e9d-27c4-4a75-93ab-f8c99d0c4a51",
@@ -327,6 +332,11 @@
    }
   ],
   "BP": [
+   {
+    "h": "BP cuts net debt by up to 13% after Iran war drives oil price surge",
+    "u": "https://www.ft.com/content/59a1a306-d7fd-4e01-88ad-bfd6da925aaa",
+    "d": "2026-07-14"
+   },
    {
     "h": "BP CEO says oil giant needs to make 'fewer and better' choices",
     "u": "https://www.bloomberg.com/news/articles/2026-07-09/bp-ceo-says-oil-giant-needs-to-make-fewer-and-better-choices",
