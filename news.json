@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-14T07:49:57.675Z",
+ "updatedAt": "2026-07-15T07:53:42.101Z",
  "companies": {
   "Vodafone": [
    {
@@ -204,6 +204,11 @@
    }
   ],
   "Airtel Africa": [
+   {
+    "h": "Airtel Africa taps more bankers for rare London IPO of mobile money business",
+    "u": "https://www.ft.com/content/cd9f6a51-5059-4bd5-b35e-55c7acfe6ab2",
+    "d": "2026-07-15"
+   },
    {
     "h": "Airtel Africa announces major board changes as Sunil Bharti Mittal steps down as chair",
     "u": "https://techafricanews.com/2026/03/30/airtel-africa-announces-major-board-changes-as-sunil-bharti-mittal-steps-down-as-chair/",
@@ -533,6 +538,13 @@
     "h": "LondonMetric and Schroder REIT raise takeover offer for Picton Property Income to 77p per share",
     "u": "https://www.investegate.co.uk/announcement/rns/londonmetric-property--lmp/further-update-on-the-proposed-offer-for-picton/9662142",
     "d": "2026-07-10"
+   }
+  ],
+  "Rightmove": [
+   {
+    "h": "Is Rightmove taking us for a ride?",
+    "u": "https://www.ft.com/content/4421dba7-0267-44dd-8232-bd33c94a301e",
+    "d": "2026-07-15"
    }
   ]
  }
