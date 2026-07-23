@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-22T08:11:41.034Z",
+ "updatedAt": "2026-07-23T08:15:10.731Z",
  "companies": {
   "Vodafone": [
    {
@@ -25,6 +25,11 @@
   ],
   "easyJet": [
    {
+    "h": "EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid",
+    "u": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1",
+    "d": "2026-07-22"
+   },
+   {
     "h": "Apollo trumps Castlelake with £5.7bn deal to buy easyJet",
     "u": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
     "d": "2026-07-10"
@@ -47,11 +52,6 @@
    {
     "h": "EasyJet withdraws support for Castlelake offer as Apollo swoops in with superior £5.7 billion bid",
     "u": "https://uk.finance.yahoo.com/news/easyjet-withdraws-support-castlelake-offer-083313568.html",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid",
-    "u": "https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44",
     "d": "2026-07-10"
    }
   ],
@@ -218,11 +218,6 @@
     "h": "Airtel Africa announces major board changes as Sunil Bharti Mittal steps down as chair",
     "u": "https://techafricanews.com/2026/03/30/airtel-africa-announces-major-board-changes-as-sunil-bharti-mittal-steps-down-as-chair/",
     "d": "2026-07-09"
-   },
-   {
-    "h": "Bharti Airtel completes purchase of 16.31% stake in Airtel Africa, raising total stake to ~79%",
-    "u": "https://scanx.trade/stock-market-news/companies/bharti-airtel-completes-purchase-of-16-3-share-in-airtel-africa-raising-total-stake-to-79/43732919",
-    "d": "2026-06-22"
    }
   ],
   "AstraZeneca": [
@@ -342,13 +337,6 @@
     "h": "Teck Resources confirms shareholder election window now open ahead of Anglo American merger of equals",
     "u": "https://www.miningweekly.com/article/teck-resources-confirms-election-window-for-shareholders-now-open-ahead-of-anglo-merger-2026-07-01",
     "d": "2026-07-01"
-   }
-  ],
-  "Fresnillo": [
-   {
-    "h": "Fresnillo agrees to acquire up to 5% stake in silver explorer Sinda Ltd via private placement tied to NYSE IPO",
-    "u": "https://www.investegate.co.uk/announcement/rns/fresnillo--fres/fresnillo-announces-investment-in-sinda-ltd-/9630137",
-    "d": "2026-06-22"
    }
   ],
   "BP": [
