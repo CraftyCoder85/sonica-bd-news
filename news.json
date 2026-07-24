@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23T08:15:10.731Z",
+ "updatedAt": "2026-07-24T08:11:30.077Z",
  "companies": {
   "Vodafone": [
    {
@@ -88,6 +88,11 @@
    }
   ],
   "HSBC Holdings": [
+   {
+    "h": "HSBC sells Singapore insurance business to Allianz for $2.1bn",
+    "u": "https://www.ft.com/content/1bd022f7-1c96-49a1-addb-1128c2975515?syn-25a6b1a6=1",
+    "d": "2026-07-24"
+   },
    {
     "h": "HSBC seeks buyers for risky Hong Kong property loans",
     "u": "https://www.ft.com/content/1faf3134-933f-4526-a790-b15dbc3210eb",
@@ -420,13 +425,6 @@
     "h": "Sunbelt Rentals appoints Cynthia T. Jamison to Board of Directors",
     "u": "https://www.businesswire.com/news/home/20260630502283/en/Sunbelt-Rentals-Appoints-Cynthia-T.-Jamison-to-Board-of-Directors",
     "d": "2026-06-30"
-   }
-  ],
-  "Bunzl": [
-   {
-    "h": "Bunzl lifts 2026 outlook and bolsters Australian healthcare footprint with Scientifix acquisition",
-    "u": "https://www.tipranks.com/news/company-announcements/bunzl-lifts-2026-outlook-and-bolsters-australian-healthcare-footprint",
-    "d": "2026-06-23"
    }
   ],
   "Halma": [
