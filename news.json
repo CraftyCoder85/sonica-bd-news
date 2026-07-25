@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-24T08:11:30.077Z",
+ "updatedAt": "2026-07-25T07:53:07.723Z",
  "companies": {
   "Vodafone": [
    {
@@ -178,13 +178,6 @@
     "d": "2026-07-09"
    }
   ],
-  "M&G": [
-   {
-    "h": "M&G plc announces board changes effective September",
-    "u": "https://www.investegate.co.uk/announcement/rns/m-g--mng/directorate-change/9634104",
-    "d": "2026-06-24"
-   }
-  ],
   "Prudential": [
    {
     "h": "ICICI Bank sets governance guardrails at ICICI Prudential ahead of Prudential's Bharti Life deal",
@@ -252,11 +245,6 @@
     "h": "GSK Adds Philips CEO Roy Jakobs to Board as Independent Director",
     "u": "https://www.tipranks.com/news/company-announcements/gsk-adds-philips-ceo-roy-jakobs-to-board-as-independent-director",
     "d": "2026-07-09"
-   },
-   {
-    "h": "GSK announces commencement of tender offer to acquire Nuvalent, Inc.",
-    "u": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-commencement-of-tender-offer-to-acquire-nuvalent-inc/",
-    "d": "2026-06-24"
    }
   ],
   "Haleon": [
@@ -346,6 +334,11 @@
   ],
   "BP": [
    {
+    "h": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
+    "u": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
+    "d": "2026-07-24"
+   },
+   {
     "h": "ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield",
     "u": "https://www.ft.com/content/8f8f57eb-1ec2-4a07-917c-0c646569ee7f?syn-25a6b1a6=1",
     "d": "2026-07-17"
@@ -397,13 +390,6 @@
     "h": "BAE Systems awarded $535 million US Army contract for M109A7 Paladin howitzer production",
     "u": "https://www.prnewswire.com/news-releases/bae-systems-awarded-contract-for-continued-production-of-m109a7-paladin-self-propelled-howitzers-302801802.html",
     "d": "2026-07-06"
-   }
-  ],
-  "Rolls-Royce": [
-   {
-    "h": "Rolls-Royce appoints Gretchen Watkins and Alessandra Genco as non-executive directors",
-    "u": "https://www.investing.com/news/company-news/rollsroyce-appoints-two-nonexecutive-directors-to-board-93CH-4757615",
-    "d": "2026-06-24"
    }
   ],
   "Smiths Group": [
@@ -528,11 +514,6 @@
     "h": "Segro investors urge Prologis to improve its $12.6 billion offer as UK property M&A heats up",
     "u": "https://www.bloomberg.com/news/articles/2026-07-06/segro-investors-urge-prologis-to-improve-its-12-6-billion-offer",
     "d": "2026-07-06"
-   },
-   {
-    "h": "Segro rejects £12.6 billion takeover proposal from Prologis",
-    "u": "https://www.bloomberg.com/news/articles/2026-06-24/uk-landlord-segro-rejects-12-6-billion-prologis-bid",
-    "d": "2026-06-24"
    }
   ],
   "LondonMetric": [
