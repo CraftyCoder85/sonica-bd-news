@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-29T08:25:03.359Z",
+ "updatedAt": "2026-07-30T08:10:26.416Z",
  "companies": {
   "Vodafone": [
    {
@@ -128,6 +128,11 @@
   ],
   "Shell": [
    {
+    "h": "Shell posts second-highest profits ever as traders cash in on Iran disruption",
+    "u": "https://www.ft.com/content/dacf0dba-702a-400f-b534-f73011052b1d?syn-25a6b1a6=1",
+    "d": "2026-07-30"
+   },
+   {
     "h": "Shell sells Indian wind and solar business for $1.8bn",
     "u": "https://www.ft.com/content/e9a826a4-db60-458b-8886-a94a3a111cff",
     "d": "2026-07-13"
@@ -157,6 +162,11 @@
   ],
   "Lloyds Banking Group": [
    {
+    "h": "Lloyds targets £2bn cost cuts as part of new four-year strategy",
+    "u": "https://www.ft.com/content/38330777-9cb4-4c4e-a0f1-bdbe72ac94a6?syn-25a6b1a6=1",
+    "d": "2026-07-30"
+   },
+   {
     "h": "Lloyds sticks with 1.9bn pound set-aside for motor finance redress scheme",
     "u": "https://www.motortrader.com/motor-trader-news/automotive-news/lloyds-sticks-with-1-9bn-set-aside-for-motor-finance-redress-scheme-07-04-2026",
     "d": "2026-07-04"
@@ -167,11 +177,6 @@
     "h": "NatWest Group announces completion of the acquisition of Evelyn Partners",
     "u": "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html",
     "d": "2026-06-30"
-   },
-   {
-    "h": "NatWest appoints Erminia Johannson as non-executive director",
-    "u": "https://www.investing.com/news/company-news/natwest-appoints-erminia-johannson-as-nonexecutive-director-93CH-4765662",
-    "d": "2026-06-29"
    }
   ],
   "Standard Chartered": [
@@ -260,25 +265,11 @@
     "d": "2026-07-09"
    }
   ],
-  "Haleon": [
-   {
-    "h": "Haleon accelerates AI with Microsoft deal",
-    "u": "https://www.haleon.com/news/press-releases/corporate/2026/haleon-ai-transformation-microsoft-five-year-collaboration",
-    "d": "2026-06-29"
-   }
-  ],
   "Diageo": [
    {
     "h": "Diageo chair hunts for drinks ‘heavyweights’ in board revamp",
     "u": "https://www.ft.com/content/5a3fe135-9bdb-4c85-aac5-84b8494a016b?syn-25a6b1a6=1",
     "d": "2026-07-21"
-   }
-  ],
-  "British American Tobacco": [
-   {
-    "h": "British American Tobacco to cut 9,000 jobs in AI-driven restructuring",
-    "u": "https://www.bnnbloomberg.ca/business/international/2026/06/29/british-american-tobacco-cost-cutting-hits-9000-roles/",
-    "d": "2026-06-29"
    }
   ],
   "Tesco": [
@@ -448,16 +439,6 @@
     "h": "BT Group AGM: shareholders approve final dividend of 5.87p per share",
     "u": "https://www.marketscreener.com/news/bt-group-plc-approves-final-dividend-payable-on-9-september-2026-ce7f5ededd89f42d",
     "d": "2026-07-09"
-   },
-   {
-    "h": "BT Group and Verizon to form joint venture creating a scaled international connectivity platform for multinational customers, in $4bn deal",
-    "u": "https://newsroom.bt.com/bt-group-and-verizon-to-form-joint-venture-creating-a-scaled-international-connectivity-platform-for-multinational-customers/",
-    "d": "2026-06-29"
-   },
-   {
-    "h": "Verizon and BT merge international enterprise operations in 50:50 joint venture worth $4bn",
-    "u": "https://www.fierce-network.com/broadband/verizon-bt-merge-international-enterprise-operations-5050-jv-worth-4b",
-    "d": "2026-06-29"
    }
   ],
   "Informa": [
@@ -548,6 +529,13 @@
     "h": "Glencore trading profits double on Middle East turmoil",
     "u": "https://www.ft.com/content/d5912454-6a02-4017-8a85-30a11d806780?syn-25a6b1a6=1",
     "d": "2026-07-29"
+   }
+  ],
+  "Rolls-Royce": [
+   {
+    "h": "Rolls-Royce raises 2026 targets after profits beat expectations",
+    "u": "https://www.ft.com/content/ed09fae4-4f30-412c-97c0-ebfb5408644d?syn-25a6b1a6=1",
+    "d": "2026-07-30"
    }
   ]
  }
