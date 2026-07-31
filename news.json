@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T08:10:26.416Z",
+ "updatedAt": "2026-07-31T08:37:27.508Z",
  "companies": {
   "Vodafone": [
    {
@@ -94,6 +94,11 @@
   ],
   "HSBC Holdings": [
    {
+    "h": "HSBC sells $25bn Australia loan book to Blackstone",
+    "u": "https://www.ft.com/content/b1baa12c-aedf-4ca4-9d9b-38a63d1d5dfa?syn-25a6b1a6=1",
+    "d": "2026-07-31"
+   },
+   {
     "h": "HSBC sells Singapore insurance business to Allianz for $2.1bn",
     "u": "https://www.ft.com/content/1bd022f7-1c96-49a1-addb-1128c2975515?syn-25a6b1a6=1",
     "d": "2026-07-24"
@@ -174,9 +179,9 @@
   ],
   "NatWest Group": [
    {
-    "h": "NatWest Group announces completion of the acquisition of Evelyn Partners",
-    "u": "https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-reporting/2026/jul/natwest-group-announces-the-completion-of-the-acquisition-of-eve.html",
-    "d": "2026-06-30"
+    "h": "NatWest profits buoyed by retail and wealth units",
+    "u": "https://www.ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1",
+    "d": "2026-07-31"
    }
   ],
   "Standard Chartered": [
@@ -331,6 +336,16 @@
   ],
   "BP": [
    {
+    "h": "BP puts its UK North Sea business up for sale",
+    "u": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1",
+    "d": "2026-07-31"
+   },
+   {
+    "h": "BP to cut 700 jobs as it warns on oil ‘oversupply’",
+    "u": "https://www.ft.com/content/39d00795-a6b7-4950-884a-38e2ef269f22?syn-25a6b1a6=1",
+    "d": "2026-07-30"
+   },
+   {
     "h": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
     "u": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
     "d": "2026-07-24"
@@ -349,11 +364,6 @@
     "h": "BP CEO says oil giant needs to make 'fewer and better' choices",
     "u": "https://www.bloomberg.com/news/articles/2026-07-09/bp-ceo-says-oil-giant-needs-to-make-fewer-and-better-choices",
     "d": "2026-07-09"
-   },
-   {
-    "h": "BP sees more leadership changes as CEO Meg O'Neill reshapes executive ranks",
-    "u": "https://www.rigzone.com/news/bp_sees_more_leadership_changes-01-jul-2026-184032-article/",
-    "d": "2026-07-01"
    }
   ],
   "National Grid": [
@@ -389,25 +399,11 @@
     "d": "2026-07-06"
    }
   ],
-  "Smiths Group": [
-   {
-    "h": "Smiths Group completes £2bn sale of Smiths Detection to CVC Capital Partners, outlines £1.5bn shareholder return plan",
-    "u": "https://www.smiths.com/news-and-insights/news/2026/completion-of-smiths-detection-sale",
-    "d": "2026-06-30"
-   }
-  ],
   "Rentokil Initial": [
    {
     "h": "Goldman Sachs upgrades Rentokil Initial to Buy on growth recovery, citing new North America CEO and operational turnaround",
     "u": "https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-rentokil-initial-stock-rating-on-growth-recovery-93CH-4777643",
     "d": "2026-07-07"
-   }
-  ],
-  "Ashtead": [
-   {
-    "h": "Sunbelt Rentals appoints Cynthia T. Jamison to Board of Directors",
-    "u": "https://www.businesswire.com/news/home/20260630502283/en/Sunbelt-Rentals-Appoints-Cynthia-T.-Jamison-to-Board-of-Directors",
-    "d": "2026-06-30"
    }
   ],
   "Halma": [
@@ -536,6 +532,20 @@
     "h": "Rolls-Royce raises 2026 targets after profits beat expectations",
     "u": "https://www.ft.com/content/ed09fae4-4f30-412c-97c0-ebfb5408644d?syn-25a6b1a6=1",
     "d": "2026-07-30"
+   }
+  ],
+  "J Sainsbury": [
+   {
+    "h": "Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners",
+    "u": "https://www.ft.com/content/e874feaf-38de-479d-937b-05daa5a021a9?syn-25a6b1a6=1",
+    "d": "2026-07-31"
+   }
+  ],
+  "IAG": [
+   {
+    "h": "British Airways owner IAG ditches growth plans amid Iran conflict",
+    "u": "https://www.ft.com/content/c14b255c-cdda-4ba8-8139-f10e862a4235?syn-25a6b1a6=1",
+    "d": "2026-07-31"
    }
   ]
  }
