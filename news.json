@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-31T08:37:27.508Z",
+ "updatedAt": "2026-08-01T08:06:54.047Z",
  "companies": {
   "Vodafone": [
    {
@@ -167,6 +167,11 @@
   ],
   "Lloyds Banking Group": [
    {
+    "h": "Is Lloyds Bank’s techie boss a secret AI contrarian?",
+    "u": "https://www.ft.com/content/44d14a83-45b2-4d2e-94f0-8eb86dceab86?syn-25a6b1a6=1",
+    "d": "2026-08-01"
+   },
+   {
     "h": "Lloyds targets £2bn cost cuts as part of new four-year strategy",
     "u": "https://www.ft.com/content/38330777-9cb4-4c4e-a0f1-bdbe72ac94a6?syn-25a6b1a6=1",
     "d": "2026-07-30"
@@ -194,11 +199,6 @@
     "h": "Julius Baer names Standard Chartered executive as new CFO",
     "u": "https://www.privatebankerinternational.com/news/julius-baer-names-new-cfo/",
     "d": "2026-07-03"
-   },
-   {
-    "h": "Standard Chartered appoints Tanate Phutrakul as independent non-executive director",
-    "u": "https://www.newswit.com/en/ies6pu6541p8yshx189kejrn6m7ezkjj",
-    "d": "2026-07-01"
    }
   ],
   "Aviva": [
@@ -213,20 +213,6 @@
     "h": "ICICI Bank sets governance guardrails at ICICI Prudential ahead of Prudential's Bharti Life deal",
     "u": "https://www.tipranks.com/news/company-announcements/icici-bank-sets-governance-guardrails-at-icici-prudential-ahead-of-prudentials-bharti-life-deal",
     "d": "2026-07-04"
-   }
-  ],
-  "Admiral": [
-   {
-    "h": "Geraint Jones to retire as Admiral Group CFO with Rachel Lewis assuming the role from July 2026",
-    "u": "https://www.admiralgroup.co.uk/news-releases/news-release-details/geraint-jones-retire-group-cfo-rachel-lewis-assuming-role-july",
-    "d": "2026-07-01"
-   }
-  ],
-  "Hiscox": [
-   {
-    "h": "Hiscox appoints Aparna Sarin as Group Chief Marketing and Revenue Officer",
-    "u": "https://www.marketscreener.com/news/hiscox-appoints-aparna-sarin-as-group-chief-marketing-and-revenue-officer-ce7f5fddde8ef122",
-    "d": "2026-07-01"
    }
   ],
   "Airtel Africa": [
@@ -286,6 +272,11 @@
   ],
   "Marks & Spencer": [
    {
+    "h": "Directors’ Deals: M&S directors cash out as shares climb",
+    "u": "https://www.ft.com/content/5a74e0e6-fa68-4298-884a-4b738185911b",
+    "d": "2026-07-31"
+   },
+   {
     "h": "Marks and Spencer Board Member Cheryl Potter to Step Down",
     "u": "https://www.tipranks.com/news/company-announcements/marks-and-spencer-board-member-cheryl-potter-to-step-down",
     "d": "2026-07-07"
@@ -312,6 +303,11 @@
   ],
   "Rio Tinto": [
    {
+    "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
+    "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
+    "d": "2026-07-31"
+   },
+   {
     "h": "Rio Tinto buoyant on AI demand for metals as earnings soar",
     "u": "https://www.ft.com/content/b65619cf-0a79-443c-beef-ea9410f5caff?syn-25a6b1a6=1",
     "d": "2026-07-29"
@@ -327,11 +323,6 @@
     "h": "Anglo American poised to sell De Beers diamond business to former CEO",
     "u": "https://www.ft.com/content/88bd18dd-60e6-4b6f-9e5b-1931f4171a1d?syn-25a6b1a6=1",
     "d": "2026-07-17"
-   },
-   {
-    "h": "Teck Resources confirms shareholder election window now open ahead of Anglo American merger of equals",
-    "u": "https://www.miningweekly.com/article/teck-resources-confirms-election-window-for-shareholders-now-open-ahead-of-anglo-merger-2026-07-01",
-    "d": "2026-07-01"
    }
   ],
   "BP": [
@@ -371,11 +362,6 @@
     "h": "National Grid taps into US AI power boom",
     "u": "https://www.ft.com/content/39f4842b-7389-485c-9d28-1a199607e56b?syn-25a6b1a6=1",
     "d": "2026-07-21"
-   },
-   {
-    "h": "National Grid Ventures to invest $1.75bn for 35% stake in Joulent to power US data centers and AI",
-    "u": "https://www.prnewswire.com/news-releases/national-grid-ventures-to-invest-1-75bn-to-accelerate-power-solutions-for-us-data-centers-and-ai-302815750.html",
-    "d": "2026-07-01"
    }
   ],
   "Centrica": [
@@ -423,11 +409,6 @@
     "h": "Diploma reshapes Remuneration Committee leadership as Jennifer Ward steps down as chair",
     "u": "https://www.tipranks.com/news/company-announcements/diploma-reshapes-remuneration-committee-leadership",
     "d": "2026-07-03"
-   },
-   {
-    "h": "Diploma delivers strong half-year results with further 6% FY26 upgrade, earnings up 36%",
-    "u": "https://www.diplomaplc.com/news/half-year-results-2026/",
-    "d": "2026-07-01"
    }
   ],
   "BT Group": [
@@ -444,13 +425,6 @@
     "d": "2026-07-09"
    }
   ],
-  "Taylor Wimpey": [
-   {
-    "h": "Housebuilding giants hit with £4.5bn lawsuit for allegedly overcharging buyers",
-    "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
-    "d": "2026-07-01"
-   }
-  ],
   "Barratt Redrow": [
    {
     "h": "Barratt Redrow launches £400mn buyback after investor pressure",
@@ -461,25 +435,6 @@
     "h": "Barratt Redrow: Outcome of Audit Tender - Ernst & Young appointed as external auditor",
     "u": "https://www.stockopedia.com/share-prices/barratt-redrow-LON:BTRW/news/outcome-of-audit-tender-019f216a-1796-77c2-9c34-5838e8634f78/",
     "d": "2026-07-02"
-   },
-   {
-    "h": "Housebuilding giants including Barratt Redrow hit with £4.5bn lawsuit for allegedly overcharging buyers",
-    "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
-    "d": "2026-07-01"
-   }
-  ],
-  "Persimmon": [
-   {
-    "h": "Housebuilding giants including Persimmon hit with £4.5bn lawsuit for allegedly overcharging buyers",
-    "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
-    "d": "2026-07-01"
-   }
-  ],
-  "Berkeley Group": [
-   {
-    "h": "Housebuilding giants including Berkeley hit with £4.5bn lawsuit for allegedly overcharging buyers",
-    "u": "https://www.cityam.com/housebuilding-giants-hit-with-4-5bn-lawsuit-for-allegedly-overcharging-buyers/",
-    "d": "2026-07-01"
    }
   ],
   "SEGRO": [
@@ -545,6 +500,13 @@
    {
     "h": "British Airways owner IAG ditches growth plans amid Iran conflict",
     "u": "https://www.ft.com/content/c14b255c-cdda-4ba8-8139-f10e862a4235?syn-25a6b1a6=1",
+    "d": "2026-07-31"
+   }
+  ],
+  "Unite Group": [
+   {
+    "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
+    "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
     "d": "2026-07-31"
    }
   ]
