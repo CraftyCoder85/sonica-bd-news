@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-02T08:08:53.762Z",
+ "updatedAt": "2026-08-03T09:28:43.935Z",
  "companies": {
   "Vodafone": [
    {
@@ -194,11 +194,6 @@
     "h": "Standard Chartered launches $1bn buyback as bank embraces AI",
     "u": "https://www.ft.com/content/e0153a16-aa0a-4d01-8614-9d332aa86690?syn-25a6b1a6=1",
     "d": "2026-07-29"
-   },
-   {
-    "h": "Julius Baer names Standard Chartered executive as new CFO",
-    "u": "https://www.privatebankerinternational.com/news/julius-baer-names-new-cfo/",
-    "d": "2026-07-03"
    }
   ],
   "Aviva": [
@@ -228,6 +223,16 @@
    }
   ],
   "AstraZeneca": [
+   {
+    "h": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+    "u": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+    "d": "2026-08-03"
+   },
+   {
+    "h": "FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up",
+    "u": "https://www.ft.com/content/8cf8bbb2-e286-4824-8ec3-6404d2756bc3?syn-25a6b1a6=1",
+    "d": "2026-08-03"
+   },
    {
     "h": "AstraZeneca highlights rare diseases in $80bn revenue push",
     "u": "https://www.ft.com/content/159edf3d-4b88-4597-a8ef-a5fb955d2712?syn-25a6b1a6=1",
@@ -390,13 +395,6 @@
     "h": "Halma agrees to acquire Dreampath Diagnostics, a Strasbourg-based pathology sample-tracking specialist",
     "u": "https://www.tradingview.com/news/reuters.com,2026-07-07:newsml_RSG2198La:0-reg-halma-plc-acquisition/",
     "d": "2026-07-07"
-   }
-  ],
-  "Diploma": [
-   {
-    "h": "Diploma reshapes Remuneration Committee leadership as Jennifer Ward steps down as chair",
-    "u": "https://www.tipranks.com/news/company-announcements/diploma-reshapes-remuneration-committee-leadership",
-    "d": "2026-07-03"
    }
   ],
   "BT Group": [
