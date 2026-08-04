@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-03T09:28:43.935Z",
+ "updatedAt": "2026-08-04T08:24:44.490Z",
  "companies": {
   "Vodafone": [
    {
@@ -94,6 +94,11 @@
   ],
   "HSBC Holdings": [
    {
+    "h": "HSBC resumes share buybacks as quarterly profits soar to $10.1bn",
+    "u": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
+    "d": "2026-08-04"
+   },
+   {
     "h": "HSBC sells $25bn Australia loan book to Blackstone",
     "u": "https://www.ft.com/content/b1baa12c-aedf-4ca4-9d9b-38a63d1d5dfa?syn-25a6b1a6=1",
     "d": "2026-07-31"
@@ -175,11 +180,6 @@
     "h": "Lloyds targets £2bn cost cuts as part of new four-year strategy",
     "u": "https://www.ft.com/content/38330777-9cb4-4c4e-a0f1-bdbe72ac94a6?syn-25a6b1a6=1",
     "d": "2026-07-30"
-   },
-   {
-    "h": "Lloyds sticks with 1.9bn pound set-aside for motor finance redress scheme",
-    "u": "https://www.motortrader.com/motor-trader-news/automotive-news/lloyds-sticks-with-1-9bn-set-aside-for-motor-finance-redress-scheme-07-04-2026",
-    "d": "2026-07-04"
    }
   ],
   "NatWest Group": [
@@ -201,13 +201,6 @@
     "h": "Aviva agrees to purchase remaining 26% stake in India joint venture",
     "u": "https://www.marketscreener.com/news/aviva-agrees-to-purchase-remaining-26-stake-in-india-joint-venture-ce7f5ed9d189f025",
     "d": "2026-07-09"
-   }
-  ],
-  "Prudential": [
-   {
-    "h": "ICICI Bank sets governance guardrails at ICICI Prudential ahead of Prudential's Bharti Life deal",
-    "u": "https://www.tipranks.com/news/company-announcements/icici-bank-sets-governance-guardrails-at-icici-prudential-ahead-of-prudentials-bharti-life-deal",
-    "d": "2026-07-04"
    }
   ],
   "Airtel Africa": [
@@ -234,24 +227,24 @@
     "d": "2026-08-03"
    },
    {
+    "h": "AstraZeneca investors raise concerns over mega-merger talks",
+    "u": "https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1",
+    "d": "2026-08-03"
+   },
+   {
+    "h": "AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough",
+    "u": "https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1",
+    "d": "2026-08-03"
+   },
+   {
+    "h": "Struggling to make sense of AstraZeneca-BMS",
+    "u": "https://www.ft.com/content/eddbdc29-5206-4c79-9ea7-f1a06ff040f1",
+    "d": "2026-08-03"
+   },
+   {
     "h": "AstraZeneca highlights rare diseases in $80bn revenue push",
     "u": "https://www.ft.com/content/159edf3d-4b88-4597-a8ef-a5fb955d2712?syn-25a6b1a6=1",
     "d": "2026-07-20"
-   },
-   {
-    "h": "AstraZeneca CEO: ‘Biology will catch up with me at some point’",
-    "u": "https://www.ft.com/content/26e0b3be-8f28-442a-a8f8-28c082f0c385",
-    "d": "2026-07-12"
-   },
-   {
-    "h": "AstraZeneca strengthens CSPC alliance with US$1.77B kidney disease drug discovery deal",
-    "u": "https://www.healthcaremea.com/2026/07/09/astrazeneca-strengthens-cspc-alliance-with-us1-77b-kidney-disease-drug-discovery-deal/",
-    "d": "2026-07-09"
-   },
-   {
-    "h": "AstraZeneca (AZN) Shares Plunge Following Trial Setback",
-    "u": "https://www.gurufocus.com/news/8950916/astrazeneca-azn-shares-plunge-following-trial-setback",
-    "d": "2026-07-09"
    }
   ],
   "GSK": [
@@ -318,12 +311,22 @@
   ],
   "Anglo American": [
    {
+    "h": "Diamond industry misjudged threat of lab-grown gems, says Anglo American CEO",
+    "u": "https://www.ft.com/content/e171131f-e68d-481c-afc4-48f70d51e08a?syn-25a6b1a6=1",
+    "d": "2026-08-04"
+   },
+   {
     "h": "Anglo American poised to sell De Beers diamond business to former CEO",
     "u": "https://www.ft.com/content/88bd18dd-60e6-4b6f-9e5b-1931f4171a1d?syn-25a6b1a6=1",
     "d": "2026-07-17"
    }
   ],
   "BP": [
+   {
+    "h": "BP to sell $4bn US biogas business as profits more than double",
+    "u": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
+    "d": "2026-08-04"
+   },
    {
     "h": "BP puts its UK North Sea business up for sale",
     "u": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1",
@@ -348,11 +351,6 @@
     "h": "BP cuts net debt by up to 13% after Iran war drives oil price surge",
     "u": "https://www.ft.com/content/59a1a306-d7fd-4e01-88ad-bfd6da925aaa",
     "d": "2026-07-14"
-   },
-   {
-    "h": "BP CEO says oil giant needs to make 'fewer and better' choices",
-    "u": "https://www.bloomberg.com/news/articles/2026-07-09/bp-ceo-says-oil-giant-needs-to-make-fewer-and-better-choices",
-    "d": "2026-07-09"
    }
   ],
   "National Grid": [
