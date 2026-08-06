@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-05T08:22:04.579Z",
+ "updatedAt": "2026-08-06T08:19:24.095Z",
  "companies": {
   "Vodafone": [
    {
@@ -323,6 +323,11 @@
   ],
   "BP": [
    {
+    "h": "BP North Sea exit presents wake-up call on Scottish energy",
+    "u": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1",
+    "d": "2026-08-06"
+   },
+   {
     "h": "BP to sell $4bn US biogas business as profits more than double",
     "u": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
     "d": "2026-08-04"
@@ -346,11 +351,6 @@
     "h": "ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield",
     "u": "https://www.ft.com/content/8f8f57eb-1ec2-4a07-917c-0c646569ee7f?syn-25a6b1a6=1",
     "d": "2026-07-17"
-   },
-   {
-    "h": "BP cuts net debt by up to 13% after Iran war drives oil price surge",
-    "u": "https://www.ft.com/content/59a1a306-d7fd-4e01-88ad-bfd6da925aaa",
-    "d": "2026-07-14"
    }
   ],
   "National Grid": [
@@ -372,13 +372,6 @@
     "h": "Ofgem concludes Severn Trent breached wastewater duties but imposes no fine",
     "u": "https://www.bloomberg.com/news/articles/2026-07-08/uk-water-regulator-finds-severn-trent-breached-wastewater-duties",
     "d": "2026-07-08"
-   }
-  ],
-  "BAE Systems": [
-   {
-    "h": "BAE Systems awarded $535 million US Army contract for M109A7 Paladin howitzer production",
-    "u": "https://www.prnewswire.com/news-releases/bae-systems-awarded-contract-for-continued-production-of-m109a7-paladin-self-propelled-howitzers-302801802.html",
-    "d": "2026-07-06"
    }
   ],
   "Rentokil Initial": [
@@ -426,11 +419,6 @@
     "h": "SEGRO plc Trading Update - H1 2026, reiterates Prologis bid rejection and growth pipeline",
     "u": "https://www.investegate.co.uk/announcement/rns/segro--sgro/trading-update/9658006",
     "d": "2026-07-08"
-   },
-   {
-    "h": "Segro investors urge Prologis to improve its $12.6 billion offer as UK property M&A heats up",
-    "u": "https://www.bloomberg.com/news/articles/2026-07-06/segro-investors-urge-prologis-to-improve-its-12-6-billion-offer",
-    "d": "2026-07-06"
    }
   ],
   "LondonMetric": [
@@ -455,6 +443,11 @@
    }
   ],
   "Glencore": [
+   {
+    "h": "Glencore takes a smart shortcut to triple nationality",
+    "u": "https://www.ft.com/content/a0c3fad0-77ab-4893-b9ee-c22719d4631d?syn-25a6b1a6=1",
+    "d": "2026-08-06"
+   },
    {
     "h": "Glencore plans secondary listing in Australia",
     "u": "https://www.ft.com/content/f447bd94-8541-4176-acdf-f16e2be4289a?syn-25a6b1a6=1",
