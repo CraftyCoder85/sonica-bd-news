@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07T07:02:23.612Z",
+ "updatedAt": "2026-08-08T06:37:38.663Z",
  "companies": {
   "Vodafone": [
    {
@@ -30,6 +30,11 @@
   ],
   "easyJet": [
    {
+    "h": "Premium seats, more charges: Apollo’s upmarket plans for easyJet",
+    "u": "https://www.ft.com/content/acc1df39-eccc-4f04-affd-f3aca4839669?syn-25a6b1a6=1",
+    "d": "2026-08-07"
+   },
+   {
     "h": "Air France-KLM targets easyJet passengers during takeover turmoil",
     "u": "https://www.ft.com/content/43ecc4d5-202b-42f5-beb9-9aecca919f6d?syn-25a6b1a6=1",
     "d": "2026-08-02"
@@ -53,11 +58,6 @@
     "h": "EasyJet pops 13% as airline weighs $7.7 billion rival takeover bid from Apollo",
     "u": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
     "d": "2026-07-10"
-   },
-   {
-    "h": "Apollo hijacks easyJet takeover with £5.7bn bid, trumping Castlelake",
-    "u": "https://uk.finance.yahoo.com/news/apollo-hijacks-easyjet-takeover-5-085636314.html",
-    "d": "2026-07-10"
    }
   ],
   "DCC": [
@@ -80,16 +80,6 @@
     "h": "Founder of energy group DCC blasts board for backing takeover ‘on the cheap’",
     "u": "https://www.ft.com/content/7e97139f-4b7a-4a72-bc33-1311e4cb20ad",
     "d": "2026-07-10"
-   },
-   {
-    "h": "Deadline extension for DCC takeover bid",
-    "u": "https://www.rte.ie/news/business/2026/0708/1582446-dcc-energy-takeover/",
-    "d": "2026-07-08"
-   },
-   {
-    "h": "DCC wins extra time for potential takeover bid from ECP-KKR consortium",
-    "u": "https://www.tipranks.com/news/company-announcements/dcc-wins-extra-time-for-potential-takeover-bid-from-ecp-kkr-consortium",
-    "d": "2026-07-08"
    }
   ],
   "HSBC Holdings": [
@@ -124,11 +114,6 @@
     "h": "Terry Smith accuses Unilever of misleading shareholders over McCormick merger",
     "u": "https://www.foodnavigator.com/Article/2026/07/09/terry-smith-accuses-unilever-of-misleading-shareholders-over-mccormick-merger/",
     "d": "2026-07-09"
-   },
-   {
-    "h": "Terry Smith accuses Unilever of misleading investors over food spin-off",
-    "u": "https://www.grocerygazette.co.uk/2026/07/08/terry-smith-accuses-unilever-of-misleading-investors-over-food-spin-off/",
-    "d": "2026-07-08"
    }
   ],
   "Shell": [
@@ -246,30 +231,11 @@
     "d": "2026-07-21"
    }
   ],
-  "Tesco": [
-   {
-    "h": "Tesco exploring sale of Central Europe operations, FT reports",
-    "u": "https://www.rte.ie/news/business/2026/0708/1582395-tesco-exploring-sale-of-central-europe-operations-ft/",
-    "d": "2026-07-08"
-   }
-  ],
   "Marks & Spencer": [
    {
     "h": "Directors’ Deals: M&S directors cash out as shares climb",
     "u": "https://www.ft.com/content/5a74e0e6-fa68-4298-884a-4b738185911b",
     "d": "2026-07-31"
-   }
-  ],
-  "Associated British Foods": [
-   {
-    "h": "ABF completes acquisition of Hovis Group Limited",
-    "u": "https://www.abf.co.uk/media/news/2026/abf-completes-acquisition-of-hovis-group-limited",
-    "d": "2026-07-08"
-   },
-   {
-    "h": "ABF completes Hovis acquisition, launches new merged Hovis Bakeries group",
-    "u": "https://www.foodbev.com/news/abf-completes-hovis-acquisition-launches-new-merged-hovis-bakeries-group",
-    "d": "2026-07-08"
    }
   ],
   "Rio Tinto": [
@@ -282,11 +248,6 @@
     "h": "Rio Tinto buoyant on AI demand for metals as earnings soar",
     "u": "https://www.ft.com/content/b65619cf-0a79-443c-beef-ea9410f5caff?syn-25a6b1a6=1",
     "d": "2026-07-29"
-   },
-   {
-    "h": "Rio Tinto declines to exercise option to become operator of Sovereign Metals' Kasiya rutile-graphite project in Malawi",
-    "u": "https://www.miningweekly.com/article/rio-tinto-concludes-partnership-in-sovereigns-malawi-project-2026-07-08",
-    "d": "2026-07-08"
    }
   ],
   "Anglo American": [
@@ -347,13 +308,6 @@
     "d": "2026-07-09"
    }
   ],
-  "Severn Trent": [
-   {
-    "h": "Ofgem concludes Severn Trent breached wastewater duties but imposes no fine",
-    "u": "https://www.bloomberg.com/news/articles/2026-07-08/uk-water-regulator-finds-severn-trent-breached-wastewater-duties",
-    "d": "2026-07-08"
-   }
-  ],
   "BT Group": [
    {
     "h": "BT Group AGM: shareholders approve final dividend of 5.87p per share",
@@ -373,18 +327,6 @@
     "h": "Barratt Redrow launches £400mn buyback after investor pressure",
     "u": "https://www.ft.com/content/f3c2ab09-eda2-4de0-89bb-613b1771f146",
     "d": "2026-07-15"
-   }
-  ],
-  "SEGRO": [
-   {
-    "h": "SEGRO rejects Prologis takeover approach as 'opportunistic' and 'inadequate'",
-    "u": "https://www.thebusinessdesk.com/eastmidlands/news/2112433-segro-rejects-prologis-takeover-approach-as-opportunistic-and-inadequate",
-    "d": "2026-07-08"
-   },
-   {
-    "h": "SEGRO plc Trading Update - H1 2026, reiterates Prologis bid rejection and growth pipeline",
-    "u": "https://www.investegate.co.uk/announcement/rns/segro--sgro/trading-update/9658006",
-    "d": "2026-07-08"
    }
   ],
   "LondonMetric": [
@@ -433,6 +375,11 @@
    }
   ],
   "J Sainsbury": [
+   {
+    "h": "Sainsbury’s needs a dose of Big Tech’s boldness",
+    "u": "https://www.ft.com/content/0a843a71-8418-4c18-a19d-de47688818e8?syn-25a6b1a6=1",
+    "d": "2026-08-08"
+   },
    {
     "h": "Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners",
     "u": "https://www.ft.com/content/e874feaf-38de-479d-937b-05daa5a021a9?syn-25a6b1a6=1",
