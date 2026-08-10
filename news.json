@@ -1,31 +1,11 @@
 {
- "updatedAt": "2026-08-09T06:40:45.946Z",
+ "updatedAt": "2026-08-10T07:14:53.587Z",
  "companies": {
   "Vodafone": [
    {
     "h": "Vodafone raises profit guidance as billionaire Xavier Niel takes stake",
     "u": "https://www.ft.com/content/2a1980bc-88d3-4f75-9879-d3c8c2e47fce?syn-25a6b1a6=1",
     "d": "2026-07-27"
-   },
-   {
-    "h": "French billionaire Xavier Niel becomes Vodafone’s top shareholder",
-    "u": "https://www.ft.com/content/2614a765-bb4d-4607-9a60-9f0b6c521a79",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "Eir's owner Xavier Niel becomes biggest Vodafone investor in $6bn deal, buying e&'s 16% stake",
-    "u": "https://www.irishtimes.com/business/2026/07/10/eirs-owner-xavier-niel-becomes-biggest-vodafone-investor-in-6bn-deal/",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "Xavier Niel becomes biggest Vodafone shareholder with $6 billion stake",
-    "u": "https://www.business-standard.com/world-news/xavier-niel-becomes-biggest-vodafone-shareholder-with-6-billion-stake-126071000474_1.html",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "Billionaire Xavier Niel could be the jolt Vodafone needs",
-    "u": "https://www.ft.com/content/b93b6144-4e80-43f2-a368-a58bf663b309",
-    "d": "2026-07-10"
    }
   ],
   "easyJet": [
@@ -43,21 +23,6 @@
     "h": "EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid",
     "u": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1",
     "d": "2026-07-22"
-   },
-   {
-    "h": "Apollo trumps Castlelake with £5.7bn deal to buy easyJet",
-    "u": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "EasyJet gets rival offer from Apollo that beats Castlelake bid",
-    "u": "https://www.bloomberg.com/news/articles/2026-07-10/easyjet-gets-rival-offer-from-apollo-that-beats-castlelake-bid",
-    "d": "2026-07-10"
-   },
-   {
-    "h": "EasyJet pops 13% as airline weighs $7.7 billion rival takeover bid from Apollo",
-    "u": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
-    "d": "2026-07-10"
    }
   ],
   "DCC": [
@@ -75,11 +40,6 @@
     "h": "Top shareholders oppose ‘improved’ £5.7bn bid for DCC",
     "u": "https://www.ft.com/content/b5b79893-9e82-4d49-a977-046b830f8a68?syn-25a6b1a6=1",
     "d": "2026-07-16"
-   },
-   {
-    "h": "Founder of energy group DCC blasts board for backing takeover ‘on the cheap’",
-    "u": "https://www.ft.com/content/7e97139f-4b7a-4a72-bc33-1311e4cb20ad",
-    "d": "2026-07-10"
    }
   ],
   "HSBC Holdings": [
@@ -97,11 +57,6 @@
     "h": "HSBC sells Singapore insurance business to Allianz for $2.1bn",
     "u": "https://www.ft.com/content/1bd022f7-1c96-49a1-addb-1128c2975515?syn-25a6b1a6=1",
     "d": "2026-07-24"
-   },
-   {
-    "h": "HSBC seeks buyers for risky Hong Kong property loans",
-    "u": "https://www.ft.com/content/1faf3134-933f-4526-a790-b15dbc3210eb",
-    "d": "2026-07-10"
    }
   ],
   "Unilever": [
@@ -277,13 +232,6 @@
     "h": "Barratt Redrow launches £400mn buyback after investor pressure",
     "u": "https://www.ft.com/content/f3c2ab09-eda2-4de0-89bb-613b1771f146",
     "d": "2026-07-15"
-   }
-  ],
-  "LondonMetric": [
-   {
-    "h": "LondonMetric and Schroder REIT raise takeover offer for Picton Property Income to 77p per share",
-    "u": "https://www.investegate.co.uk/announcement/rns/londonmetric-property--lmp/further-update-on-the-proposed-offer-for-picton/9662142",
-    "d": "2026-07-10"
    }
   ],
   "Rightmove": [
