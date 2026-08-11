@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-10T07:14:53.587Z",
+ "updatedAt": "2026-08-11T06:52:30.303Z",
  "companies": {
   "Vodafone": [
    {
@@ -120,6 +120,11 @@
   ],
   "AstraZeneca": [
    {
+    "h": "How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled",
+    "u": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
+    "d": "2026-08-11"
+   },
+   {
     "h": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
     "u": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
     "d": "2026-08-03"
@@ -143,11 +148,6 @@
     "h": "Struggling to make sense of AstraZeneca-BMS",
     "u": "https://www.ft.com/content/eddbdc29-5206-4c79-9ea7-f1a06ff040f1",
     "d": "2026-08-03"
-   },
-   {
-    "h": "AstraZeneca highlights rare diseases in $80bn revenue push",
-    "u": "https://www.ft.com/content/159edf3d-4b88-4597-a8ef-a5fb955d2712?syn-25a6b1a6=1",
-    "d": "2026-07-20"
    }
   ],
   "Diageo": [
@@ -249,6 +249,11 @@
    }
   ],
   "Glencore": [
+   {
+    "h": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
+    "u": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1",
+    "d": "2026-08-10"
+   },
    {
     "h": "Glencore takes a smart shortcut to triple nationality",
     "u": "https://www.ft.com/content/a0c3fad0-77ab-4893-b9ee-c22719d4631d?syn-25a6b1a6=1",
