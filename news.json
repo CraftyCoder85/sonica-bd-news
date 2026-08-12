@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-11T06:52:30.303Z",
+ "updatedAt": "2026-08-12T07:12:07.959Z",
  "companies": {
   "Vodafone": [
    {
@@ -43,6 +43,11 @@
    }
   ],
   "HSBC Holdings": [
+   {
+    "h": "HSBC’s global insurance head steps down",
+    "u": "https://www.ft.com/content/57e3a478-f9d5-444f-91ae-12838b1f1929?syn-25a6b1a6=1",
+    "d": "2026-08-12"
+   },
    {
     "h": "HSBC resumes share buybacks as quarterly profits soar to $10.1bn",
     "u": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
@@ -120,6 +125,11 @@
   ],
   "AstraZeneca": [
    {
+    "h": "How AstraZeneca’s $400bn deal unravelled",
+    "u": "https://www.ft.com/content/a96c07f8-0b61-4322-b5ef-1ae5b445706f?syn-25a6b1a6=1",
+    "d": "2026-08-12"
+   },
+   {
     "h": "How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled",
     "u": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
     "d": "2026-08-11"
@@ -142,11 +152,6 @@
    {
     "h": "AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough",
     "u": "https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1",
-    "d": "2026-08-03"
-   },
-   {
-    "h": "Struggling to make sense of AstraZeneca-BMS",
-    "u": "https://www.ft.com/content/eddbdc29-5206-4c79-9ea7-f1a06ff040f1",
     "d": "2026-08-03"
    }
   ],
