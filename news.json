@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-13T07:15:01.303Z",
+ "updatedAt": "2026-08-14T07:12:11.286Z",
  "companies": {
   "Vodafone": [
    {
@@ -195,6 +195,11 @@
   ],
   "BP": [
    {
+    "h": "BP joins Big Oil return to post-Maduro Venezuela",
+    "u": "https://www.ft.com/content/7a9808c3-0d3f-4c85-a8d8-1156e4a6230e?syn-25a6b1a6=1",
+    "d": "2026-08-14"
+   },
+   {
     "h": "BP North Sea exit presents wake-up call on Scottish energy",
     "u": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1",
     "d": "2026-08-06"
@@ -218,11 +223,6 @@
     "h": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
     "u": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
     "d": "2026-07-24"
-   },
-   {
-    "h": "ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield",
-    "u": "https://www.ft.com/content/8f8f57eb-1ec2-4a07-917c-0c646569ee7f?syn-25a6b1a6=1",
-    "d": "2026-07-17"
    }
   ],
   "National Grid": [
