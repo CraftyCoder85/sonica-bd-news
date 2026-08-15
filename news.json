@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-14T07:12:11.286Z",
+ "updatedAt": "2026-08-15T06:22:43.603Z",
  "companies": {
   "Vodafone": [
    {
@@ -109,13 +109,6 @@
     "h": "Standard Chartered launches $1bn buyback as bank embraces AI",
     "u": "https://www.ft.com/content/e0153a16-aa0a-4d01-8614-9d332aa86690?syn-25a6b1a6=1",
     "d": "2026-07-29"
-   }
-  ],
-  "Airtel Africa": [
-   {
-    "h": "Airtel Africa taps more bankers for rare London IPO of mobile money business",
-    "u": "https://www.ft.com/content/cd9f6a51-5059-4bd5-b35e-55c7acfe6ab2",
-    "d": "2026-07-15"
    }
   ],
   "AstraZeneca": [
@@ -232,20 +225,6 @@
     "d": "2026-07-21"
    }
   ],
-  "Barratt Redrow": [
-   {
-    "h": "Barratt Redrow launches £400mn buyback after investor pressure",
-    "u": "https://www.ft.com/content/f3c2ab09-eda2-4de0-89bb-613b1771f146",
-    "d": "2026-07-15"
-   }
-  ],
-  "Rightmove": [
-   {
-    "h": "Is Rightmove taking us for a ride?",
-    "u": "https://www.ft.com/content/4421dba7-0267-44dd-8232-bd33c94a301e",
-    "d": "2026-07-15"
-   }
-  ],
   "LSEG": [
    {
     "h": "London Stock Exchange plans to launch round-the-clock trading next year",
@@ -306,6 +285,20 @@
     "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
     "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
     "d": "2026-07-31"
+   }
+  ],
+  "Persimmon": [
+   {
+    "h": "Stockpickers: Persimmon, Savills, Caledonia Mining",
+    "u": "https://www.ft.com/content/adb47166-29f0-4630-bf8e-b9d0b8d0f2ed",
+    "d": "2026-08-14"
+   }
+  ],
+  "British American Tobacco": [
+   {
+    "h": "Directors’ Deals: British American Tobacco’s newest director buys the dip",
+    "u": "https://www.ft.com/content/87d2bbd8-a799-4d6c-8907-2709cdcf0a31",
+    "d": "2026-08-14"
    }
   ]
  }
