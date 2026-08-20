@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19T06:29:47.507Z",
+ "updatedAt": "2026-08-20T06:31:21.890Z",
  "companies": {
   "Vodafone": [
    {
@@ -74,6 +74,11 @@
    }
   ],
   "Barclays": [
+   {
+    "h": "Will Barclays’ latest Wall Street reset finally work?",
+    "u": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
+    "d": "2026-08-20"
+   },
    {
     "h": "Barclays profits boosted by market volatility gains",
     "u": "https://www.ft.com/content/6b2c9eb1-24f0-4117-a390-cfcdfdaad3a9?syn-25a6b1a6=1",
@@ -213,13 +218,6 @@
     "h": "National Grid taps into US AI power boom",
     "u": "https://www.ft.com/content/39f4842b-7389-485c-9d28-1a199607e56b?syn-25a6b1a6=1",
     "d": "2026-07-21"
-   }
-  ],
-  "LSEG": [
-   {
-    "h": "London Stock Exchange plans to launch round-the-clock trading next year",
-    "u": "https://www.ft.com/content/11a512f3-22b8-407f-b913-7ebea1c90d03?syn-25a6b1a6=1",
-    "d": "2026-07-20"
    }
   ],
   "Glencore": [
