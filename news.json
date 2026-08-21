@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-20T06:31:21.890Z",
+ "updatedAt": "2026-08-21T06:31:48.926Z",
  "companies": {
   "Vodafone": [
    {
@@ -38,6 +38,11 @@
    }
   ],
   "HSBC Holdings": [
+   {
+    "h": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
+    "u": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
+    "d": "2026-08-21"
+   },
    {
     "h": "HSBC’s global insurance head steps down",
     "u": "https://www.ft.com/content/57e3a478-f9d5-444f-91ae-12838b1f1929?syn-25a6b1a6=1",
@@ -143,13 +148,6 @@
     "d": "2026-08-03"
    }
   ],
-  "Diageo": [
-   {
-    "h": "Diageo chair hunts for drinks ‘heavyweights’ in board revamp",
-    "u": "https://www.ft.com/content/5a3fe135-9bdb-4c85-aac5-84b8494a016b?syn-25a6b1a6=1",
-    "d": "2026-07-21"
-   }
-  ],
   "Marks & Spencer": [
    {
     "h": "Directors’ Deals: M&S directors cash out as shares climb",
@@ -211,13 +209,6 @@
     "h": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
     "u": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
     "d": "2026-07-24"
-   }
-  ],
-  "National Grid": [
-   {
-    "h": "National Grid taps into US AI power boom",
-    "u": "https://www.ft.com/content/39f4842b-7389-485c-9d28-1a199607e56b?syn-25a6b1a6=1",
-    "d": "2026-07-21"
    }
   ],
   "Glencore": [
