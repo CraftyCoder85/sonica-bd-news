@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T06:31:48.926Z",
+ "updatedAt": "2026-08-22T06:25:17.392Z",
  "companies": {
   "Vodafone": [
    {
@@ -18,11 +18,6 @@
     "h": "Air France-KLM targets easyJet passengers during takeover turmoil",
     "u": "https://www.ft.com/content/43ecc4d5-202b-42f5-beb9-9aecca919f6d?syn-25a6b1a6=1",
     "d": "2026-08-02"
-   },
-   {
-    "h": "EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid",
-    "u": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1",
-    "d": "2026-07-22"
    }
   ],
   "DCC": [
@@ -278,6 +273,13 @@
     "h": "Directors’ Deals: British American Tobacco’s newest director buys the dip",
     "u": "https://www.ft.com/content/87d2bbd8-a799-4d6c-8907-2709cdcf0a31",
     "d": "2026-08-14"
+   }
+  ],
+  "Pearson": [
+   {
+    "h": "Directors’ Deals: Pearson executive cashes in as digital growth boosts shares",
+    "u": "https://www.ft.com/content/ead7f466-1d6e-42e3-bedf-0ce5135372c9",
+    "d": "2026-08-21"
    }
   ]
  }
