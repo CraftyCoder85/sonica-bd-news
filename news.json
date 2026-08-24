@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-23T06:26:46.149Z",
+ "updatedAt": "2026-08-24T06:39:30.277Z",
  "companies": {
   "Vodafone": [
    {
@@ -52,11 +52,6 @@
     "h": "HSBC sells $25bn Australia loan book to Blackstone",
     "u": "https://www.ft.com/content/b1baa12c-aedf-4ca4-9d9b-38a63d1d5dfa?syn-25a6b1a6=1",
     "d": "2026-07-31"
-   },
-   {
-    "h": "HSBC sells Singapore insurance business to Allianz for $2.1bn",
-    "u": "https://www.ft.com/content/1bd022f7-1c96-49a1-addb-1128c2975515?syn-25a6b1a6=1",
-    "d": "2026-07-24"
    }
   ],
   "Unilever": [
@@ -67,6 +62,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "Shell draws Exxon interest in $8bn US chemical assets sale",
+    "u": "https://www.ft.com/content/d6f1eb66-1684-4b4f-8e4f-cc429d5dd4b0?syn-25a6b1a6=1",
+    "d": "2026-08-24"
+   },
    {
     "h": "Shell posts second-highest profits ever as traders cash in on Iran disruption",
     "u": "https://www.ft.com/content/dacf0dba-702a-400f-b534-f73011052b1d?syn-25a6b1a6=1",
@@ -199,11 +199,6 @@
     "h": "BP to cut 700 jobs as it warns on oil ‘oversupply’",
     "u": "https://www.ft.com/content/39d00795-a6b7-4950-884a-38e2ef269f22?syn-25a6b1a6=1",
     "d": "2026-07-30"
-   },
-   {
-    "h": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
-    "u": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
-    "d": "2026-07-24"
    }
   ],
   "Glencore": [
