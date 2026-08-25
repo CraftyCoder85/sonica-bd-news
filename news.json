@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24T06:39:30.277Z",
+ "updatedAt": "2026-08-25T06:31:56.958Z",
  "companies": {
   "Vodafone": [
    {
@@ -98,6 +98,11 @@
    }
   ],
   "NatWest Group": [
+   {
+    "h": "NatWest plots push into US market",
+    "u": "https://www.ft.com/content/940339db-b5b5-4b53-95e6-cfbc42eb6c06?syn-25a6b1a6=1",
+    "d": "2026-08-25"
+   },
    {
     "h": "NatWest profits buoyed by retail and wealth units",
     "u": "https://www.ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1",
@@ -282,6 +287,13 @@
     "h": "‘Juggernaut’ BT’s decade-long turnaround hits crunch time",
     "u": "https://www.ft.com/content/434ff8df-d436-4001-b781-3cf0c8ad0b64",
     "d": "2026-08-23"
+   }
+  ],
+  "Schroders": [
+   {
+    "h": "Morgan Stanley and Schroders back Australia’s largest venture capital round",
+    "u": "https://www.ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1",
+    "d": "2026-08-24"
    }
   ]
  }
