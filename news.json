@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28T17:56:50.633Z",
+ "updatedAt": "2026-08-29T12:02:13.398Z",
  "companies": {
   "easyJet": [
    {
@@ -78,13 +78,6 @@
     "d": "2026-07-31"
    }
   ],
-  "Standard Chartered": [
-   {
-    "h": "Standard Chartered launches $1bn buyback as bank embraces AI",
-    "u": "https://www.ft.com/content/e0153a16-aa0a-4d01-8614-9d332aa86690?syn-25a6b1a6=1",
-    "d": "2026-07-29"
-   }
-  ],
   "AstraZeneca": [
    {
     "h": "How AstraZeneca’s $400bn deal unravelled",
@@ -134,11 +127,6 @@
     "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
     "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
     "d": "2026-07-31"
-   },
-   {
-    "h": "Rio Tinto buoyant on AI demand for metals as earnings soar",
-    "u": "https://www.ft.com/content/b65619cf-0a79-443c-beef-ea9410f5caff?syn-25a6b1a6=1",
-    "d": "2026-07-29"
    }
   ],
   "Anglo American": [
@@ -177,6 +165,11 @@
   ],
   "Glencore": [
    {
+    "h": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
+    "u": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
+    "d": "2026-08-29"
+   },
+   {
     "h": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
     "u": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1",
     "d": "2026-08-10"
@@ -190,11 +183,6 @@
     "h": "Glencore plans secondary listing in Australia",
     "u": "https://www.ft.com/content/f447bd94-8541-4176-acdf-f16e2be4289a?syn-25a6b1a6=1",
     "d": "2026-08-05"
-   },
-   {
-    "h": "Glencore trading profits double on Middle East turmoil",
-    "u": "https://www.ft.com/content/d5912454-6a02-4017-8a85-30a11d806780?syn-25a6b1a6=1",
-    "d": "2026-07-29"
    }
   ],
   "Rolls-Royce": [
