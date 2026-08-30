@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29T12:02:13.398Z",
+ "updatedAt": "2026-08-30T10:58:35.293Z",
  "companies": {
   "easyJet": [
    {
@@ -40,11 +40,6 @@
     "h": "Shell draws Exxon interest in $8bn US chemical assets sale",
     "u": "https://www.ft.com/content/d6f1eb66-1684-4b4f-8e4f-cc429d5dd4b0?syn-25a6b1a6=1",
     "d": "2026-08-24"
-   },
-   {
-    "h": "Shell posts second-highest profits ever as traders cash in on Iran disruption",
-    "u": "https://www.ft.com/content/dacf0dba-702a-400f-b534-f73011052b1d?syn-25a6b1a6=1",
-    "d": "2026-07-30"
    }
   ],
   "Barclays": [
@@ -59,11 +54,6 @@
     "h": "Is Lloyds Bank’s techie boss a secret AI contrarian?",
     "u": "https://www.ft.com/content/44d14a83-45b2-4d2e-94f0-8eb86dceab86?syn-25a6b1a6=1",
     "d": "2026-08-01"
-   },
-   {
-    "h": "Lloyds targets £2bn cost cuts as part of new four-year strategy",
-    "u": "https://www.ft.com/content/38330777-9cb4-4c4e-a0f1-bdbe72ac94a6?syn-25a6b1a6=1",
-    "d": "2026-07-30"
    }
   ],
   "NatWest Group": [
@@ -156,14 +146,14 @@
     "h": "BP puts its UK North Sea business up for sale",
     "u": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1",
     "d": "2026-07-31"
-   },
-   {
-    "h": "BP to cut 700 jobs as it warns on oil ‘oversupply’",
-    "u": "https://www.ft.com/content/39d00795-a6b7-4950-884a-38e2ef269f22?syn-25a6b1a6=1",
-    "d": "2026-07-30"
    }
   ],
   "Glencore": [
+   {
+    "h": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains",
+    "u": "https://www.ft.com/content/bcb35264-a96c-49c0-984f-4b379d088581?syn-25a6b1a6=1",
+    "d": "2026-08-30"
+   },
    {
     "h": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
     "u": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
@@ -183,13 +173,6 @@
     "h": "Glencore plans secondary listing in Australia",
     "u": "https://www.ft.com/content/f447bd94-8541-4176-acdf-f16e2be4289a?syn-25a6b1a6=1",
     "d": "2026-08-05"
-   }
-  ],
-  "Rolls-Royce": [
-   {
-    "h": "Rolls-Royce raises 2026 targets after profits beat expectations",
-    "u": "https://www.ft.com/content/ed09fae4-4f30-412c-97c0-ebfb5408644d?syn-25a6b1a6=1",
-    "d": "2026-07-30"
    }
   ],
   "J Sainsbury": [
