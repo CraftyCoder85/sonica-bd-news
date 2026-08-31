@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-30T10:58:35.293Z",
+ "updatedAt": "2026-08-31T12:17:11.502Z",
  "companies": {
   "easyJet": [
    {
@@ -28,11 +28,6 @@
     "h": "HSBC resumes share buybacks as quarterly profits soar to $10.1bn",
     "u": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
     "d": "2026-08-04"
-   },
-   {
-    "h": "HSBC sells $25bn Australia loan book to Blackstone",
-    "u": "https://www.ft.com/content/b1baa12c-aedf-4ca4-9d9b-38a63d1d5dfa?syn-25a6b1a6=1",
-    "d": "2026-07-31"
    }
   ],
   "Shell": [
@@ -61,11 +56,6 @@
     "h": "NatWest plots push into US market",
     "u": "https://www.ft.com/content/940339db-b5b5-4b53-95e6-cfbc42eb6c06?syn-25a6b1a6=1",
     "d": "2026-08-25"
-   },
-   {
-    "h": "NatWest profits buoyed by retail and wealth units",
-    "u": "https://www.ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1",
-    "d": "2026-07-31"
    }
   ],
   "AstraZeneca": [
@@ -100,23 +90,11 @@
     "d": "2026-08-03"
    }
   ],
-  "Marks & Spencer": [
-   {
-    "h": "Directors’ Deals: M&S directors cash out as shares climb",
-    "u": "https://www.ft.com/content/5a74e0e6-fa68-4298-884a-4b738185911b",
-    "d": "2026-07-31"
-   }
-  ],
   "Rio Tinto": [
    {
     "h": "Rio Tinto gets $1.8bn bailout for Australia’s biggest aluminium smelter",
     "u": "https://www.ft.com/content/92f69c81-f15f-409f-877d-0cc61f4ef697?syn-25a6b1a6=1",
     "d": "2026-08-13"
-   },
-   {
-    "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
-    "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
-    "d": "2026-07-31"
    }
   ],
   "Anglo American": [
@@ -141,11 +119,6 @@
     "h": "BP to sell $4bn US biogas business as profits more than double",
     "u": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
     "d": "2026-08-04"
-   },
-   {
-    "h": "BP puts its UK North Sea business up for sale",
-    "u": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1",
-    "d": "2026-07-31"
    }
   ],
   "Glencore": [
@@ -180,25 +153,6 @@
     "h": "Sainsbury’s needs a dose of Big Tech’s boldness",
     "u": "https://www.ft.com/content/0a843a71-8418-4c18-a19d-de47688818e8?syn-25a6b1a6=1",
     "d": "2026-08-08"
-   },
-   {
-    "h": "Sainsbury’s strikes deal to sell Argos for £120mn to Swift Partners",
-    "u": "https://www.ft.com/content/e874feaf-38de-479d-937b-05daa5a021a9?syn-25a6b1a6=1",
-    "d": "2026-07-31"
-   }
-  ],
-  "IAG": [
-   {
-    "h": "British Airways owner IAG ditches growth plans amid Iran conflict",
-    "u": "https://www.ft.com/content/c14b255c-cdda-4ba8-8139-f10e862a4235?syn-25a6b1a6=1",
-    "d": "2026-07-31"
-   }
-  ],
-  "Unite Group": [
-   {
-    "h": "Stockpickers: Restore, Rio Tinto, Unite Group",
-    "u": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
-    "d": "2026-07-31"
    }
   ],
   "Persimmon": [
