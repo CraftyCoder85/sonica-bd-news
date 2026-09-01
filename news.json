@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-31T12:17:11.502Z",
+ "updatedAt": "2026-09-01T10:52:01.298Z",
  "companies": {
   "easyJet": [
    {
@@ -42,13 +42,6 @@
     "h": "Will Barclays’ latest Wall Street reset finally work?",
     "u": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
     "d": "2026-08-20"
-   }
-  ],
-  "Lloyds Banking Group": [
-   {
-    "h": "Is Lloyds Bank’s techie boss a secret AI contrarian?",
-    "u": "https://www.ft.com/content/44d14a83-45b2-4d2e-94f0-8eb86dceab86?syn-25a6b1a6=1",
-    "d": "2026-08-01"
    }
   ],
   "NatWest Group": [
@@ -188,6 +181,13 @@
     "h": "Morgan Stanley and Schroders back Australia’s largest venture capital round",
     "u": "https://www.ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1",
     "d": "2026-08-24"
+   }
+  ],
+  "WPP": [
+   {
+    "h": "WPP cutting up to 1,000 more jobs as AI reshapes advertising industry",
+    "u": "https://www.ft.com/content/91395fb6-1782-41b2-82e5-e2a40d754e3f?syn-25a6b1a6=1",
+    "d": "2026-09-01"
    }
   ]
  }
