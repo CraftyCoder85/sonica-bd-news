@@ -1,16 +1,11 @@
 {
- "updatedAt": "2026-09-01T10:52:01.298Z",
+ "updatedAt": "2026-09-02T10:17:14.424Z",
  "companies": {
   "easyJet": [
    {
     "h": "Premium seats, more charges: Apollo’s upmarket plans for easyJet",
     "u": "https://www.ft.com/content/acc1df39-eccc-4f04-affd-f3aca4839669?syn-25a6b1a6=1",
     "d": "2026-08-07"
-   },
-   {
-    "h": "Air France-KLM targets easyJet passengers during takeover turmoil",
-    "u": "https://www.ft.com/content/43ecc4d5-202b-42f5-beb9-9aecca919f6d?syn-25a6b1a6=1",
-    "d": "2026-08-02"
    }
   ],
   "HSBC Holdings": [
@@ -98,6 +93,11 @@
    }
   ],
   "BP": [
+   {
+    "h": "BP names new chair as it tries to move on from Albert Manifold",
+    "u": "https://www.ft.com/content/d7e8d76b-d67b-46af-9d95-a384cb90b5d2?syn-25a6b1a6=1",
+    "d": "2026-09-02"
+   },
    {
     "h": "BP joins Big Oil return to post-Maduro Venezuela",
     "u": "https://www.ft.com/content/7a9808c3-0d3f-4c85-a8d8-1156e4a6230e?syn-25a6b1a6=1",
