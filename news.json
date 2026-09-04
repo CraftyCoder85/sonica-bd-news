@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-03T10:27:31.327Z",
+ "updatedAt": "2026-09-04T10:15:35.744Z",
  "companies": {
   "easyJet": [
    {
@@ -18,11 +18,6 @@
     "h": "HSBC’s global insurance head steps down",
     "u": "https://www.ft.com/content/57e3a478-f9d5-444f-91ae-12838b1f1929?syn-25a6b1a6=1",
     "d": "2026-08-12"
-   },
-   {
-    "h": "HSBC resumes share buybacks as quarterly profits soar to $10.1bn",
-    "u": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-    "d": "2026-08-04"
    }
   ],
   "Shell": [
@@ -65,13 +60,6 @@
     "d": "2026-08-13"
    }
   ],
-  "Anglo American": [
-   {
-    "h": "Diamond industry misjudged threat of lab-grown gems, says Anglo American CEO",
-    "u": "https://www.ft.com/content/e171131f-e68d-481c-afc4-48f70d51e08a?syn-25a6b1a6=1",
-    "d": "2026-08-04"
-   }
-  ],
   "BP": [
    {
     "h": "BP names new chair as it tries to move on from Albert Manifold",
@@ -92,11 +80,6 @@
     "h": "BP North Sea exit presents wake-up call on Scottish energy",
     "u": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1",
     "d": "2026-08-06"
-   },
-   {
-    "h": "BP to sell $4bn US biogas business as profits more than double",
-    "u": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
-    "d": "2026-08-04"
    }
   ],
   "Glencore": [
@@ -173,6 +156,13 @@
     "h": "WPP cutting up to 1,000 more jobs as AI reshapes advertising industry",
     "u": "https://www.ft.com/content/91395fb6-1782-41b2-82e5-e2a40d754e3f?syn-25a6b1a6=1",
     "d": "2026-09-01"
+   }
+  ],
+  "Entain": [
+   {
+    "h": "Entain exits the FTSE 100 in surprisingly good shape",
+    "u": "https://www.ft.com/content/eb7058a5-133e-4fef-b484-4cd965c0022e?syn-25a6b1a6=1",
+    "d": "2026-09-03"
    }
   ]
  }
