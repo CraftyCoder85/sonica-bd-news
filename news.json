@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T10:15:35.744Z",
+ "updatedAt": "2026-09-05T09:43:50.331Z",
  "companies": {
   "easyJet": [
    {
@@ -102,11 +102,6 @@
     "h": "Glencore takes a smart shortcut to triple nationality",
     "u": "https://www.ft.com/content/a0c3fad0-77ab-4893-b9ee-c22719d4631d?syn-25a6b1a6=1",
     "d": "2026-08-06"
-   },
-   {
-    "h": "Glencore plans secondary listing in Australia",
-    "u": "https://www.ft.com/content/f447bd94-8541-4176-acdf-f16e2be4289a?syn-25a6b1a6=1",
-    "d": "2026-08-05"
    }
   ],
   "J Sainsbury": [
@@ -163,6 +158,13 @@
     "h": "Entain exits the FTSE 100 in surprisingly good shape",
     "u": "https://www.ft.com/content/eb7058a5-133e-4fef-b484-4cd965c0022e?syn-25a6b1a6=1",
     "d": "2026-09-03"
+   }
+  ],
+  "Lloyds Banking Group": [
+   {
+    "h": "Directors’ Deals: Lloyds’ CFO banks £10mn through share sales",
+    "u": "https://www.ft.com/content/5fa0b726-e45a-4dbd-86e6-397fdec9d5ca",
+    "d": "2026-09-04"
    }
   ]
  }
