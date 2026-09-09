@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-08T10:20:55.017Z",
+ "updatedAt": "2026-09-09T10:29:37.809Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -14,6 +14,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "BP and Shell’s strategy counterpoint",
+    "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
+    "d": "2026-09-09"
+   },
    {
     "h": "Shell draws Exxon interest in $8bn US chemical assets sale",
     "u": "https://www.ft.com/content/d6f1eb66-1684-4b4f-8e4f-cc429d5dd4b0?syn-25a6b1a6=1",
@@ -54,6 +59,11 @@
    }
   ],
   "BP": [
+   {
+    "h": "BP and Shell’s strategy counterpoint",
+    "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
+    "d": "2026-09-09"
+   },
    {
     "h": "BP names new chair as it tries to move on from Albert Manifold",
     "u": "https://www.ft.com/content/d7e8d76b-d67b-46af-9d95-a384cb90b5d2?syn-25a6b1a6=1",
