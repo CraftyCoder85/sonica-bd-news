@@ -1,7 +1,12 @@
 {
- "updatedAt": "2026-09-09T10:29:37.809Z",
+ "updatedAt": "2026-09-10T10:19:20.699Z",
  "companies": {
   "HSBC Holdings": [
+   {
+    "h": "HSBC finance chief Kaur to step down by 2027",
+    "u": "https://www.ft.com/content/63e733d1-2c0f-46c5-ae6b-de1a72d4e9df?syn-25a6b1a6=1",
+    "d": "2026-09-10"
+   },
    {
     "h": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
     "u": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
@@ -90,11 +95,6 @@
     "h": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
     "u": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
     "d": "2026-08-29"
-   },
-   {
-    "h": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
-    "u": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1",
-    "d": "2026-08-10"
    }
   ],
   "Persimmon": [
@@ -151,6 +151,13 @@
     "h": "Directors’ Deals: Lloyds’ CFO banks £10mn through share sales",
     "u": "https://www.ft.com/content/5fa0b726-e45a-4dbd-86e6-397fdec9d5ca",
     "d": "2026-09-04"
+   }
+  ],
+  "Associated British Foods": [
+   {
+    "h": "Online holdout Primark launches delivery service to arrest sales slump",
+    "u": "https://www.ft.com/content/d0510bec-2888-40a7-82c7-6fb18555e851?syn-25a6b1a6=1",
+    "d": "2026-09-10"
    }
   ]
  }
