@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11T10:19:30.474Z",
+ "updatedAt": "2026-09-12T09:51:25.095Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -11,14 +11,14 @@
     "h": "HSBC spends $68mn on biggest cull of senior bankers since financial crisis",
     "u": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
     "d": "2026-08-21"
-   },
-   {
-    "h": "HSBC’s global insurance head steps down",
-    "u": "https://www.ft.com/content/57e3a478-f9d5-444f-91ae-12838b1f1929?syn-25a6b1a6=1",
-    "d": "2026-08-12"
    }
   ],
   "Shell": [
+   {
+    "h": "Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift",
+    "u": "https://www.ft.com/content/cde3c168-5522-4d38-a6c3-454ef36aa0d4",
+    "d": "2026-09-11"
+   },
    {
     "h": "BP and Shell’s strategy counterpoint",
     "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
@@ -42,13 +42,6 @@
     "h": "NatWest plots push into US market",
     "u": "https://www.ft.com/content/940339db-b5b5-4b53-95e6-cfbc42eb6c06?syn-25a6b1a6=1",
     "d": "2026-08-25"
-   }
-  ],
-  "AstraZeneca": [
-   {
-    "h": "How AstraZeneca’s $400bn deal unravelled",
-    "u": "https://www.ft.com/content/a96c07f8-0b61-4322-b5ef-1ae5b445706f?syn-25a6b1a6=1",
-    "d": "2026-08-12"
    }
   ],
   "Rio Tinto": [
