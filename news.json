@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15T10:45:05.516Z",
+ "updatedAt": "2026-09-16T10:33:45.669Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -63,6 +63,11 @@
   ],
   "Glencore": [
    {
+    "h": "Iron ore trader Radiant alleges Glencore hid their ties from audited records",
+    "u": "https://www.ft.com/content/69b514eb-d627-4d46-9218-0842706c7115?syn-25a6b1a6=1",
+    "d": "2026-09-15"
+   },
+   {
     "h": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains",
     "u": "https://www.ft.com/content/bcb35264-a96c-49c0-984f-4b379d088581?syn-25a6b1a6=1",
     "d": "2026-08-30"
@@ -125,6 +130,13 @@
     "h": "Online holdout Primark launches delivery service to arrest sales slump",
     "u": "https://www.ft.com/content/d0510bec-2888-40a7-82c7-6fb18555e851?syn-25a6b1a6=1",
     "d": "2026-09-10"
+   }
+  ],
+  "Vodafone": [
+   {
+    "h": "Vodafone takes up to €1.1bn hit from Drahi’s German broadband deal",
+    "u": "https://www.ft.com/content/7612d53d-5179-4a53-afcc-564781baf290?syn-25a6b1a6=1",
+    "d": "2026-09-16"
    }
   ]
  }
