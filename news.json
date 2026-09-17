@@ -1,7 +1,12 @@
 {
- "updatedAt": "2026-09-16T10:33:45.669Z",
+ "updatedAt": "2026-09-17T10:43:37.954Z",
  "companies": {
   "HSBC Holdings": [
+   {
+    "h": "HSBC axes $38,000 school fee perk for new Hong Kong bankers",
+    "u": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
+    "d": "2026-09-17"
+   },
    {
     "h": "HSBC finance chief Kaur to step down by 2027",
     "u": "https://www.ft.com/content/63e733d1-2c0f-46c5-ae6b-de1a72d4e9df?syn-25a6b1a6=1",
@@ -31,6 +36,11 @@
    }
   ],
   "Barclays": [
+   {
+    "h": "Thousands of Barclays staff revolt against three-day office mandate",
+    "u": "https://www.ft.com/content/ca551e46-8ced-4e63-ace1-bdf20caedce7",
+    "d": "2026-09-17"
+   },
    {
     "h": "Will Barclays’ latest Wall Street reset finally work?",
     "u": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
@@ -137,6 +147,13 @@
     "h": "Vodafone takes up to €1.1bn hit from Drahi’s German broadband deal",
     "u": "https://www.ft.com/content/7612d53d-5179-4a53-afcc-564781baf290?syn-25a6b1a6=1",
     "d": "2026-09-16"
+   }
+  ],
+  "Next": [
+   {
+    "h": "Next boss warns on tax rises as retailer raises profit outlook",
+    "u": "https://www.ft.com/content/9ff2162e-6f81-40dc-88ea-cc6e6820afc2?syn-25a6b1a6=1",
+    "d": "2026-09-17"
    }
   ]
  }
