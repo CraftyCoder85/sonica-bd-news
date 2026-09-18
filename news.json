@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T10:43:37.954Z",
+ "updatedAt": "2026-09-18T10:18:52.649Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -72,6 +72,11 @@
    }
   ],
   "Glencore": [
+   {
+    "h": "Inside Glencore’s $2bn battle with iron ore trader Radiant",
+    "u": "https://www.ft.com/content/350df9ff-fa41-4984-a1ee-248d8335b213?syn-25a6b1a6=1",
+    "d": "2026-09-18"
+   },
    {
     "h": "Iron ore trader Radiant alleges Glencore hid their ties from audited records",
     "u": "https://www.ft.com/content/69b514eb-d627-4d46-9218-0842706c7115?syn-25a6b1a6=1",
@@ -153,6 +158,13 @@
    {
     "h": "Next boss warns on tax rises as retailer raises profit outlook",
     "u": "https://www.ft.com/content/9ff2162e-6f81-40dc-88ea-cc6e6820afc2?syn-25a6b1a6=1",
+    "d": "2026-09-17"
+   }
+  ],
+  "Diageo": [
+   {
+    "h": "Workers at Diageo’s largest distillery to go on strike as demand slumps",
+    "u": "https://www.ft.com/content/1f51ef4d-fe4d-484c-ba4c-9b0048f03ce2?syn-25a6b1a6=1",
     "d": "2026-09-17"
    }
   ]
