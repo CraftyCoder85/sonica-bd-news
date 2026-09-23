@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T10:40:33.240Z",
+ "updatedAt": "2026-09-23T10:32:09.032Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -83,13 +83,6 @@
     "d": "2026-08-29"
    }
   ],
-  "BT Group": [
-   {
-    "h": "‘Juggernaut’ BT’s decade-long turnaround hits crunch time",
-    "u": "https://www.ft.com/content/434ff8df-d436-4001-b781-3cf0c8ad0b64",
-    "d": "2026-08-23"
-   }
-  ],
   "Schroders": [
    {
     "h": "Schroders considers acquisitions to grow wealth division",
@@ -103,6 +96,11 @@
    }
   ],
   "WPP": [
+   {
+    "h": "Diageo poaches WPP finance chief as CEO Lewis overhauls top team",
+    "u": "https://www.ft.com/content/103dd28d-e7d1-4e56-a847-586f4d16529f?syn-25a6b1a6=1",
+    "d": "2026-09-23"
+   },
    {
     "h": "WPP cutting up to 1,000 more jobs as AI reshapes advertising industry",
     "u": "https://www.ft.com/content/91395fb6-1782-41b2-82e5-e2a40d754e3f?syn-25a6b1a6=1",
@@ -146,9 +144,21 @@
   ],
   "Diageo": [
    {
+    "h": "Diageo poaches WPP finance chief as CEO Lewis overhauls top team",
+    "u": "https://www.ft.com/content/103dd28d-e7d1-4e56-a847-586f4d16529f?syn-25a6b1a6=1",
+    "d": "2026-09-23"
+   },
+   {
     "h": "Workers at Diageo’s largest distillery to go on strike as demand slumps",
     "u": "https://www.ft.com/content/1f51ef4d-fe4d-484c-ba4c-9b0048f03ce2?syn-25a6b1a6=1",
     "d": "2026-09-17"
+   }
+  ],
+  "Tesco": [
+   {
+    "h": "Lidl owner among suitors circling Tesco’s European business",
+    "u": "https://www.ft.com/content/be88d1eb-8de1-4261-ad52-9be25924a5ed?syn-25a6b1a6=1",
+    "d": "2026-09-23"
    }
   ]
  }
