@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23T10:32:09.032Z",
+ "updatedAt": "2026-09-24T10:50:11.074Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -23,11 +23,6 @@
     "h": "BP and Shell’s strategy counterpoint",
     "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
     "d": "2026-09-09"
-   },
-   {
-    "h": "Shell draws Exxon interest in $8bn US chemical assets sale",
-    "u": "https://www.ft.com/content/d6f1eb66-1684-4b4f-8e4f-cc429d5dd4b0?syn-25a6b1a6=1",
-    "d": "2026-08-24"
    }
   ],
   "Barclays": [
@@ -88,11 +83,6 @@
     "h": "Schroders considers acquisitions to grow wealth division",
     "u": "https://www.ft.com/content/0688caee-f24f-4fa7-b04a-d1e8f9c0c03d?syn-25a6b1a6=1",
     "d": "2026-09-14"
-   },
-   {
-    "h": "Morgan Stanley and Schroders back Australia’s largest venture capital round",
-    "u": "https://www.ft.com/content/fc1581cc-c5e4-47e8-ab38-1d2946aafac9?syn-25a6b1a6=1",
-    "d": "2026-08-24"
    }
   ],
   "WPP": [
@@ -158,6 +148,13 @@
    {
     "h": "Lidl owner among suitors circling Tesco’s European business",
     "u": "https://www.ft.com/content/be88d1eb-8de1-4261-ad52-9be25924a5ed?syn-25a6b1a6=1",
+    "d": "2026-09-23"
+   }
+  ],
+  "Legal & General": [
+   {
+    "h": "L&G to cut a tenth of its workforce",
+    "u": "https://www.ft.com/content/2f652ff5-b707-4d96-abb4-31b90a77908c?syn-25a6b1a6=1",
     "d": "2026-09-23"
    }
   ]
