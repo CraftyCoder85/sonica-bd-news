@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T12:29:24.827Z",
+ "updatedAt": "2026-09-29T11:52:52.372Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -14,6 +14,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "Shell-led consortium backs $23bn expansion of LNG Canada project",
+    "u": "https://www.ft.com/content/364d5454-876d-42ef-8f30-759e1ebdb026?syn-25a6b1a6=1",
+    "d": "2026-09-29"
+   },
    {
     "h": "Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift",
     "u": "https://www.ft.com/content/cde3c168-5522-4d38-a6c3-454ef36aa0d4",
@@ -64,11 +69,6 @@
     "h": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains",
     "u": "https://www.ft.com/content/bcb35264-a96c-49c0-984f-4b379d088581?syn-25a6b1a6=1",
     "d": "2026-08-30"
-   },
-   {
-    "h": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
-    "u": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
-    "d": "2026-08-29"
    }
   ],
   "Schroders": [
@@ -168,6 +168,13 @@
     "h": "Directors’ Deals: AstraZeneca’s Soriot in a major show of faith",
     "u": "https://www.ft.com/content/4deafc9c-981b-4fd8-9f74-da0e8fce9651",
     "d": "2026-09-25"
+   }
+  ],
+  "Marks & Spencer": [
+   {
+    "h": "M&S strikes beauty deal with LVMH’s Sephora",
+    "u": "https://www.ft.com/content/45821693-370b-4246-8887-f79874197ae9?syn-25a6b1a6=1",
+    "d": "2026-09-29"
    }
   ]
  }
