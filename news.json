@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04T11:34:59.965Z",
+ "updatedAt": "2026-10-05T13:09:55.116Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -82,13 +82,6 @@
     "d": "2026-10-02"
    }
   ],
-  "Lloyds Banking Group": [
-   {
-    "h": "Directors’ Deals: Lloyds’ CFO banks £10mn through share sales",
-    "u": "https://www.ft.com/content/5fa0b726-e45a-4dbd-86e6-397fdec9d5ca",
-    "d": "2026-09-04"
-   }
-  ],
   "Associated British Foods": [
    {
     "h": "Online holdout Primark launches delivery service to arrest sales slump",
@@ -164,14 +157,31 @@
   ],
   "BT Group": [
    {
+    "h": "BT buys struggling rival TalkTalk out of administration",
+    "u": "https://www.ft.com/content/27d5abde-c1cd-4dc1-932f-4812a41a66c4?syn-25a6b1a6=1",
+    "d": "2026-10-05"
+   },
+   {
     "h": "BT weighs improved TalkTalk offer after initial approach rejected",
     "u": "https://www.ft.com/content/d2d5a5a5-758f-472f-a2c7-1684955b0087",
+    "d": "2026-10-04"
+   },
+   {
+    "h": "BT weighs improved TalkTalk offer after initial approach rejected",
+    "u": "https://www.ft.com/content/d2d5a5a5-758f-472f-a2c7-1684955b0087?syn-25a6b1a6=1",
     "d": "2026-10-04"
    },
    {
     "h": "BT seeks government nod for potential TalkTalk takeover",
     "u": "https://www.ft.com/content/4b87328c-17da-484d-a92a-0f3582f76f02?syn-25a6b1a6=1",
     "d": "2026-10-01"
+   }
+  ],
+  "J Sainsbury": [
+   {
+    "h": "Sainsbury’s held merger talks with smaller rival Morrisons",
+    "u": "https://www.ft.com/content/5f235c48-9a4e-4bb6-a454-0915abc2d5df?syn-25a6b1a6=1",
+    "d": "2026-10-05"
    }
   ]
  }
