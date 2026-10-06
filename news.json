@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T13:09:55.116Z",
+ "updatedAt": "2026-10-06T12:30:20.483Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -157,6 +157,11 @@
   ],
   "BT Group": [
    {
+    "h": "BT’s swoop on TalkTalk has regulators over a barrel",
+    "u": "https://www.ft.com/content/309a7685-e488-44f4-ad76-4247b7f8bb5b?syn-25a6b1a6=1",
+    "d": "2026-10-06"
+   },
+   {
     "h": "BT buys struggling rival TalkTalk out of administration",
     "u": "https://www.ft.com/content/27d5abde-c1cd-4dc1-932f-4812a41a66c4?syn-25a6b1a6=1",
     "d": "2026-10-05"
@@ -179,9 +184,21 @@
   ],
   "J Sainsbury": [
    {
+    "h": "Sainsbury’s search for scale puts mergers back on the table",
+    "u": "https://www.ft.com/content/b53870b9-aa82-499a-9898-b5f7475939f8?syn-25a6b1a6=1",
+    "d": "2026-10-06"
+   },
+   {
     "h": "Sainsbury’s held merger talks with smaller rival Morrisons",
     "u": "https://www.ft.com/content/5f235c48-9a4e-4bb6-a454-0915abc2d5df?syn-25a6b1a6=1",
     "d": "2026-10-05"
+   }
+  ],
+  "Informa": [
+   {
+    "h": "Informa to buy rival events business Clarion from Blackstone for £2.2bn",
+    "u": "https://www.ft.com/content/0c8c0122-cc24-4ea5-bc7f-09bfc95d3dd1?syn-25a6b1a6=1",
+    "d": "2026-10-06"
    }
   ]
  }
