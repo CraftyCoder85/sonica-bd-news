@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T12:20:57.682Z",
+ "updatedAt": "2026-10-10T11:39:44.011Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -33,11 +33,6 @@
     "h": "Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift",
     "u": "https://www.ft.com/content/cde3c168-5522-4d38-a6c3-454ef36aa0d4",
     "d": "2026-09-11"
-   },
-   {
-    "h": "BP and Shell’s strategy counterpoint",
-    "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
-    "d": "2026-09-09"
    }
   ],
   "Barclays": [
@@ -50,13 +45,6 @@
     "h": "Thousands of Barclays staff revolt against three-day office mandate",
     "u": "https://www.ft.com/content/ca551e46-8ced-4e63-ace1-bdf20caedce7",
     "d": "2026-09-17"
-   }
-  ],
-  "BP": [
-   {
-    "h": "BP and Shell’s strategy counterpoint",
-    "u": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
-    "d": "2026-09-09"
    }
   ],
   "Glencore": [
@@ -131,6 +119,11 @@
    }
   ],
   "Tesco": [
+   {
+    "h": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
+    "u": "https://www.ft.com/content/873b1b9c-5e5c-4f34-9b96-6250ffd26783",
+    "d": "2026-10-09"
+   },
    {
     "h": "Tesco predicts less boozy Christmas for UK shoppers",
     "u": "https://www.ft.com/content/70f36d8e-ab07-4b58-a5d5-70908ef5f6ee?syn-25a6b1a6=1",
