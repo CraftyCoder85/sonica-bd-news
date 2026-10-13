@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T14:01:04.791Z",
+ "updatedAt": "2026-10-13T13:15:37.793Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -148,6 +148,11 @@
   ],
   "BT Group": [
    {
+    "h": "How BT’s TalkTalk swoop left broadband rivals fuming",
+    "u": "https://www.ft.com/content/39da2672-e57a-41aa-8f03-970ae37d88a6?syn-25a6b1a6=1",
+    "d": "2026-10-13"
+   },
+   {
     "h": "BT’s swoop on TalkTalk has regulators over a barrel",
     "u": "https://www.ft.com/content/309a7685-e488-44f4-ad76-4247b7f8bb5b?syn-25a6b1a6=1",
     "d": "2026-10-06"
@@ -192,6 +197,11 @@
   ],
   "Informa": [
    {
+    "h": "Informa’s trade show bet has a vulnerability — geopolitics",
+    "u": "https://www.ft.com/content/6219e3f2-e9c1-48d4-ae47-1337e636ce0a?syn-25a6b1a6=1",
+    "d": "2026-10-13"
+   },
+   {
     "h": "Informa to buy rival events business Clarion from Blackstone for £2.2bn",
     "u": "https://www.ft.com/content/0c8c0122-cc24-4ea5-bc7f-09bfc95d3dd1?syn-25a6b1a6=1",
     "d": "2026-10-06"
@@ -202,6 +212,13 @@
     "h": "Games Workshop’s wall of worry",
     "u": "https://www.ft.com/content/42a5c77c-d09c-40b3-8ad2-4a01633dd6a0",
     "d": "2026-10-09"
+   }
+  ],
+  "BP": [
+   {
+    "h": "BP to set out new strategy after windfall year",
+    "u": "https://www.ft.com/content/5d92ea15-6211-43c4-9e41-d1b7f085dd4c?syn-25a6b1a6=1",
+    "d": "2026-10-13"
    }
   ]
  }
