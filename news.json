@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T10:37:20.389Z",
+ "updatedAt": "2026-10-16T10:24:22.388Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -42,11 +42,6 @@
     "h": "Inside Glencore’s $2bn battle with iron ore trader Radiant",
     "u": "https://www.ft.com/content/350df9ff-fa41-4984-a1ee-248d8335b213?syn-25a6b1a6=1",
     "d": "2026-09-18"
-   },
-   {
-    "h": "Iron ore trader Radiant alleges Glencore hid their ties from audited records",
-    "u": "https://www.ft.com/content/69b514eb-d627-4d46-9218-0842706c7115?syn-25a6b1a6=1",
-    "d": "2026-09-15"
    }
   ],
   "WPP": [
@@ -219,6 +214,20 @@
     "h": "London Stock Exchange owner in talks to buy credit specialist Octus",
     "u": "https://www.ft.com/content/fbaeca48-5f50-40ca-b45e-5de62ad52b83?syn-25a6b1a6=1",
     "d": "2026-10-13"
+   }
+  ],
+  "Anglo American": [
+   {
+    "h": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
+    "u": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
+    "d": "2026-10-15"
+   }
+  ],
+  "easyJet": [
+   {
+    "h": "Bankers and advisers set for £334mn easyJet payout",
+    "u": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
+    "d": "2026-10-15"
    }
   ]
  }
