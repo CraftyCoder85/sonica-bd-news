@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T10:09:18.332Z",
+ "updatedAt": "2026-10-19T11:41:55.612Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -22,16 +22,14 @@
   ],
   "Barclays": [
    {
+    "h": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+    "u": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+    "d": "2026-10-19"
+   },
+   {
     "h": "Ex-Barclays traders’ rate-rigging convictions quashed",
     "u": "https://www.ft.com/content/9c61d1a4-c982-41d5-a96e-f06df406c7e9?syn-25a6b1a6=1",
     "d": "2026-10-07"
-   }
-  ],
-  "Glencore": [
-   {
-    "h": "Inside Glencore’s $2bn battle with iron ore trader Radiant",
-    "u": "https://www.ft.com/content/350df9ff-fa41-4984-a1ee-248d8335b213?syn-25a6b1a6=1",
-    "d": "2026-09-18"
    }
   ],
   "WPP": [
