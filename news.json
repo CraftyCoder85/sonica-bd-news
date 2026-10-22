@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T10:54:53.683Z",
+ "updatedAt": "2026-10-22T10:54:47.040Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -26,6 +26,11 @@
    }
   ],
   "Barclays": [
+   {
+    "h": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
+    "u": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
+    "d": "2026-10-22"
+   },
    {
     "h": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
     "u": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
@@ -186,6 +191,11 @@
    }
   ],
   "LSEG": [
+   {
+    "h": "LSEG agrees to buy credit data specialist Octus for $3.5bn",
+    "u": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b?syn-25a6b1a6=1",
+    "d": "2026-10-21"
+   },
    {
     "h": "London Stock Exchange owner in talks to buy credit specialist Octus",
     "u": "https://www.ft.com/content/fbaeca48-5f50-40ca-b45e-5de62ad52b83?syn-25a6b1a6=1",
