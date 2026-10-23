@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T10:54:47.040Z",
+ "updatedAt": "2026-10-23T10:46:29.350Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -19,6 +19,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
+    "u": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
+    "d": "2026-10-22"
+   },
    {
     "h": "Shell-led consortium backs $23bn expansion of LNG Canada project",
     "u": "https://www.ft.com/content/364d5454-876d-42ef-8f30-759e1ebdb026?syn-25a6b1a6=1",
@@ -214,6 +219,13 @@
     "h": "Bankers and advisers set for £334mn easyJet payout",
     "u": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
     "d": "2026-10-15"
+   }
+  ],
+  "Rolls-Royce": [
+   {
+    "h": "Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK",
+    "u": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1",
+    "d": "2026-10-23"
    }
   ]
  }
