@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T10:27:59.075Z",
+ "updatedAt": "2026-10-26T11:58:26.201Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -54,13 +54,6 @@
     "d": "2026-10-02"
    }
   ],
-  "Next": [
-   {
-    "h": "Stockpickers: Mortgage Advice Bureau, Luceco, Next",
-    "u": "https://www.ft.com/content/8c6f0c32-01b8-4490-afd3-96254b567168",
-    "d": "2026-09-25"
-   }
-  ],
   "Tesco": [
    {
     "h": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
@@ -78,13 +71,6 @@
     "h": "Whitbread acts out the UK’s growth challenge in miniature",
     "u": "https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1",
     "d": "2026-09-26"
-   }
-  ],
-  "AstraZeneca": [
-   {
-    "h": "Directors’ Deals: AstraZeneca’s Soriot in a major show of faith",
-    "u": "https://www.ft.com/content/4deafc9c-981b-4fd8-9f74-da0e8fce9651",
-    "d": "2026-09-25"
    }
   ],
   "Marks & Spencer": [
@@ -200,6 +186,13 @@
     "h": "Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK",
     "u": "https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1",
     "d": "2026-10-23"
+   }
+  ],
+  "Lloyds Banking Group": [
+   {
+    "h": "Politicians should ‘look at the UK economy as a CEO would’, says Lloyds Bank’s boss",
+    "u": "https://www.ft.com/content/825591c9-b5d6-4a6d-99b1-a00b2cb22fb2?syn-25a6b1a6=1",
+    "d": "2026-10-26"
    }
   ]
  }
