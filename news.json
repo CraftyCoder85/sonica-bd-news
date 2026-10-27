@@ -1,7 +1,12 @@
 {
- "updatedAt": "2026-10-26T11:58:26.201Z",
+ "updatedAt": "2026-10-27T11:19:54.413Z",
  "companies": {
   "HSBC Holdings": [
+   {
+    "h": "HSBC shares fall as results disappoint",
+    "u": "https://www.ft.com/content/fd23db26-a45b-4a98-b771-4234a30b7937?syn-25a6b1a6=1",
+    "d": "2026-10-27"
+   },
    {
     "h": "HSBC reviews Palantir holding in $9bn Islamic fund",
     "u": "https://www.ft.com/content/f3d80441-2ab4-4ccb-bf8c-e2b6c040f238?syn-25a6b1a6=1",
@@ -64,13 +69,6 @@
     "h": "Tesco predicts less boozy Christmas for UK shoppers",
     "u": "https://www.ft.com/content/70f36d8e-ab07-4b58-a5d5-70908ef5f6ee?syn-25a6b1a6=1",
     "d": "2026-10-08"
-   }
-  ],
-  "Whitbread": [
-   {
-    "h": "Whitbread acts out the UK’s growth challenge in miniature",
-    "u": "https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1",
-    "d": "2026-09-26"
    }
   ],
   "Marks & Spencer": [
