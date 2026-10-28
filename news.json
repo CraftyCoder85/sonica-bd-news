@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T11:19:54.413Z",
+ "updatedAt": "2026-10-28T11:53:54.621Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -191,6 +191,27 @@
     "h": "Politicians should ‘look at the UK economy as a CEO would’, says Lloyds Bank’s boss",
     "u": "https://www.ft.com/content/825591c9-b5d6-4a6d-99b1-a00b2cb22fb2?syn-25a6b1a6=1",
     "d": "2026-10-26"
+   }
+  ],
+  "GSK": [
+   {
+    "h": "GSK shares slide after weaker vaccine sales",
+    "u": "https://www.ft.com/content/a9c75c2d-9267-4098-83b2-2d03f67eaacb?syn-25a6b1a6=1",
+    "d": "2026-10-28"
+   }
+  ],
+  "Rio Tinto": [
+   {
+    "h": "Rio Tinto proposes 56% pay bump for CEO",
+    "u": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1",
+    "d": "2026-10-28"
+   }
+  ],
+  "Glencore": [
+   {
+    "h": "Glencore boss flags bumper year on asset sales and trading boom",
+    "u": "https://www.ft.com/content/d300d22b-09ec-4ab4-9aa2-e9d18d683766?syn-25a6b1a6=1",
+    "d": "2026-10-28"
    }
   ]
  }
