@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T12:01:28.581Z",
+ "updatedAt": "2026-10-30T11:55:05.463Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -28,11 +28,6 @@
     "h": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
     "u": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
     "d": "2026-10-22"
-   },
-   {
-    "h": "Shell-led consortium backs $23bn expansion of LNG Canada project",
-    "u": "https://www.ft.com/content/364d5454-876d-42ef-8f30-759e1ebdb026?syn-25a6b1a6=1",
-    "d": "2026-09-29"
    }
   ],
   "Barclays": [
@@ -61,6 +56,11 @@
   ],
   "Tesco": [
    {
+    "h": "Tesco to sell European units for £1.5bn in retreat from overseas empire-building",
+    "u": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3?syn-25a6b1a6=1",
+    "d": "2026-10-30"
+   },
+   {
     "h": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
     "u": "https://www.ft.com/content/873b1b9c-5e5c-4f34-9b96-6250ffd26783",
     "d": "2026-10-09"
@@ -71,14 +71,12 @@
     "d": "2026-10-08"
    }
   ],
-  "Marks & Spencer": [
-   {
-    "h": "M&S strikes beauty deal with LVMH’s Sephora",
-    "u": "https://www.ft.com/content/45821693-370b-4246-8887-f79874197ae9?syn-25a6b1a6=1",
-    "d": "2026-09-29"
-   }
-  ],
   "BT Group": [
+   {
+    "h": "Virgin Media O2 nears deal to use BT’s broadband network",
+    "u": "https://www.ft.com/content/8e2179c6-d27f-4b34-aa3a-693a20ddded5?syn-25a6b1a6=1",
+    "d": "2026-10-30"
+   },
    {
     "h": "How BT’s TalkTalk swoop left broadband rivals fuming",
     "u": "https://www.ft.com/content/39da2672-e57a-41aa-8f03-970ae37d88a6?syn-25a6b1a6=1",
@@ -103,11 +101,6 @@
     "h": "BT weighs improved TalkTalk offer after initial approach rejected",
     "u": "https://www.ft.com/content/d2d5a5a5-758f-472f-a2c7-1684955b0087?syn-25a6b1a6=1",
     "d": "2026-10-04"
-   },
-   {
-    "h": "BT seeks government nod for potential TalkTalk takeover",
-    "u": "https://www.ft.com/content/4b87328c-17da-484d-a92a-0f3582f76f02?syn-25a6b1a6=1",
-    "d": "2026-10-01"
    }
   ],
   "J Sainsbury": [
@@ -147,6 +140,11 @@
    }
   ],
   "BP": [
+   {
+    "h": "BP’s profits surge to record on high fuel prices",
+    "u": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
+    "d": "2026-10-30"
+   },
    {
     "h": "BP to set out new strategy after windfall year",
     "u": "https://www.ft.com/content/5d92ea15-6211-43c4-9e41-d1b7f085dd4c?syn-25a6b1a6=1",
@@ -217,6 +215,13 @@
     "h": "Glencore boss flags bumper year on asset sales and trading boom",
     "u": "https://www.ft.com/content/d300d22b-09ec-4ab4-9aa2-e9d18d683766?syn-25a6b1a6=1",
     "d": "2026-10-28"
+   }
+  ],
+  "NatWest Group": [
+   {
+    "h": "NatWest posts weakest profit growth among big UK banks",
+    "u": "https://www.ft.com/content/120e7ad5-53e9-45ca-b953-6cbd264622fd?syn-25a6b1a6=1",
+    "d": "2026-10-30"
    }
   ]
  }
