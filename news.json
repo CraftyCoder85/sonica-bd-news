@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T11:55:05.463Z",
+ "updatedAt": "2026-10-31T11:28:41.899Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -152,6 +152,11 @@
    }
   ],
   "LSEG": [
+   {
+    "h": "Stockpickers: London Stock Exchange, Ultimate Products, Revolution Beauty",
+    "u": "https://www.ft.com/content/9ecae3cf-e434-447d-b177-ecf368a2c3cb",
+    "d": "2026-10-30"
+   },
    {
     "h": "LSEG agrees to buy credit data specialist Octus for $3.5bn",
     "u": "https://www.ft.com/content/abe0ee90-b0ad-45c2-95db-93f0663af34b?syn-25a6b1a6=1",
