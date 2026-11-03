@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T14:21:00.256Z",
+ "updatedAt": "2026-11-03T13:20:45.702Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -19,6 +19,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn",
+    "u": "https://www.ft.com/content/28649f64-1c4e-4163-ba2b-8d28c6e37616?syn-25a6b1a6=1",
+    "d": "2026-11-03"
+   },
    {
     "h": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
     "u": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
@@ -197,6 +202,11 @@
    }
   ],
   "Rio Tinto": [
+   {
+    "h": "Rio Tinto creates ‘kill zone’ to halt cane toad invasion",
+    "u": "https://www.ft.com/content/f43d4e2a-7f11-4d28-a069-d4774bfbd229?syn-25a6b1a6=1",
+    "d": "2026-11-03"
+   },
    {
     "h": "Rio Tinto proposes 56% pay bump for CEO",
     "u": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1",
