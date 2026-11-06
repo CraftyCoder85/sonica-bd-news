@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T13:46:17.955Z",
+ "updatedAt": "2026-11-06T13:30:16.517Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -79,11 +79,6 @@
     "h": "How BT’s TalkTalk swoop left broadband rivals fuming",
     "u": "https://www.ft.com/content/39da2672-e57a-41aa-8f03-970ae37d88a6?syn-25a6b1a6=1",
     "d": "2026-10-13"
-   },
-   {
-    "h": "BT’s swoop on TalkTalk has regulators over a barrel",
-    "u": "https://www.ft.com/content/309a7685-e488-44f4-ad76-4247b7f8bb5b?syn-25a6b1a6=1",
-    "d": "2026-10-06"
    }
   ],
   "J Sainsbury": [
@@ -91,11 +86,6 @@
     "h": "If supermarket M&A is back, Sainsbury’s is in a sweet spot",
     "u": "https://www.ft.com/content/86bcbc9c-bc46-47fe-871c-20e6369231b9?syn-25a6b1a6=1",
     "d": "2026-10-07"
-   },
-   {
-    "h": "Sainsbury’s search for scale puts mergers back on the table",
-    "u": "https://www.ft.com/content/b53870b9-aa82-499a-9898-b5f7475939f8?syn-25a6b1a6=1",
-    "d": "2026-10-06"
    }
   ],
   "Informa": [
@@ -103,11 +93,6 @@
     "h": "Informa’s trade show bet has a vulnerability — geopolitics",
     "u": "https://www.ft.com/content/6219e3f2-e9c1-48d4-ae47-1337e636ce0a?syn-25a6b1a6=1",
     "d": "2026-10-13"
-   },
-   {
-    "h": "Informa to buy rival events business Clarion from Blackstone for £2.2bn",
-    "u": "https://www.ft.com/content/0c8c0122-cc24-4ea5-bc7f-09bfc95d3dd1?syn-25a6b1a6=1",
-    "d": "2026-10-06"
    }
   ],
   "Games Workshop": [
@@ -215,6 +200,13 @@
     "h": "NatWest posts weakest profit growth among big UK banks",
     "u": "https://www.ft.com/content/120e7ad5-53e9-45ca-b953-6cbd264622fd?syn-25a6b1a6=1",
     "d": "2026-10-30"
+   }
+  ],
+  "IAG": [
+   {
+    "h": "British Airways owner warns of higher fares next year as fuel costs rise",
+    "u": "https://www.ft.com/content/f48913d1-2cfe-42ef-8c67-17ed95e12bdd?syn-25a6b1a6=1",
+    "d": "2026-11-06"
    }
   ]
  }
