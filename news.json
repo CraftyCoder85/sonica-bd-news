@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T13:30:16.517Z",
+ "updatedAt": "2026-11-07T12:10:41.860Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -11,11 +11,6 @@
     "h": "HSBC reviews Palantir holding in $9bn Islamic fund",
     "u": "https://www.ft.com/content/f3d80441-2ab4-4ccb-bf8c-e2b6c040f238?syn-25a6b1a6=1",
     "d": "2026-10-20"
-   },
-   {
-    "h": "HSBC plans sweeping job cuts across UK wealth business in AI push",
-    "u": "https://www.ft.com/content/dd553fc2-532c-4afc-a773-47cd7f786260?syn-25a6b1a6=1",
-    "d": "2026-10-07"
    }
   ],
   "Shell": [
@@ -40,11 +35,6 @@
     "h": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
     "u": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
     "d": "2026-10-19"
-   },
-   {
-    "h": "Ex-Barclays traders’ rate-rigging convictions quashed",
-    "u": "https://www.ft.com/content/9c61d1a4-c982-41d5-a96e-f06df406c7e9?syn-25a6b1a6=1",
-    "d": "2026-10-07"
    }
   ],
   "Tesco": [
@@ -79,13 +69,6 @@
     "h": "How BT’s TalkTalk swoop left broadband rivals fuming",
     "u": "https://www.ft.com/content/39da2672-e57a-41aa-8f03-970ae37d88a6?syn-25a6b1a6=1",
     "d": "2026-10-13"
-   }
-  ],
-  "J Sainsbury": [
-   {
-    "h": "If supermarket M&A is back, Sainsbury’s is in a sweet spot",
-    "u": "https://www.ft.com/content/86bcbc9c-bc46-47fe-871c-20e6369231b9?syn-25a6b1a6=1",
-    "d": "2026-10-07"
    }
   ],
   "Informa": [
@@ -206,6 +189,13 @@
    {
     "h": "British Airways owner warns of higher fares next year as fuel costs rise",
     "u": "https://www.ft.com/content/f48913d1-2cfe-42ef-8c67-17ed95e12bdd?syn-25a6b1a6=1",
+    "d": "2026-11-06"
+   }
+  ],
+  "Associated British Foods": [
+   {
+    "h": "Stockpickers: Focusrite, RS Group, Associated British Foods",
+    "u": "https://www.ft.com/content/dfd9316e-7a19-445a-a781-80197a05d3f3",
     "d": "2026-11-06"
    }
   ]
