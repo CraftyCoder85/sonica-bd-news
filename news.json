@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T12:31:03.995Z",
+ "updatedAt": "2026-11-09T14:48:15.260Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -14,6 +14,11 @@
    }
   ],
   "Shell": [
+   {
+    "h": "How BP and Shell fell out of love with the forecourt",
+    "u": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
+    "d": "2026-11-09"
+   },
    {
     "h": "Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn",
     "u": "https://www.ft.com/content/28649f64-1c4e-4163-ba2b-8d28c6e37616?syn-25a6b1a6=1",
@@ -42,11 +47,6 @@
     "h": "Tesco to sell European units for £1.5bn in retreat from overseas empire-building",
     "u": "https://www.ft.com/content/3effe28d-9055-40c2-8899-e6e78bcab7c3?syn-25a6b1a6=1",
     "d": "2026-10-30"
-   },
-   {
-    "h": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
-    "u": "https://www.ft.com/content/873b1b9c-5e5c-4f34-9b96-6250ffd26783",
-    "d": "2026-10-09"
    }
   ],
   "BT Group": [
@@ -73,14 +73,12 @@
     "d": "2026-10-13"
    }
   ],
-  "Games Workshop": [
-   {
-    "h": "Games Workshop’s wall of worry",
-    "u": "https://www.ft.com/content/42a5c77c-d09c-40b3-8ad2-4a01633dd6a0",
-    "d": "2026-10-09"
-   }
-  ],
   "BP": [
+   {
+    "h": "How BP and Shell fell out of love with the forecourt",
+    "u": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
+    "d": "2026-11-09"
+   },
    {
     "h": "BP’s profits surge to record on high fuel prices",
     "u": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
