@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T14:48:15.260Z",
+ "updatedAt": "2026-11-10T14:01:05.245Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -50,6 +50,11 @@
    }
   ],
   "BT Group": [
+   {
+    "h": "BT cools on Starlink satellite tie-up after Musk Ukraine controversy",
+    "u": "https://www.ft.com/content/2bb44a56-abbe-432a-8205-5e28a0a2e839",
+    "d": "2026-11-10"
+   },
    {
     "h": "BT shares rally as investors sense ‘show me the money’ moment",
     "u": "https://www.ft.com/content/c5706c21-47a7-4ef9-bc6d-fcbee741acda",
@@ -190,6 +195,13 @@
     "h": "Stockpickers: Focusrite, RS Group, Associated British Foods",
     "u": "https://www.ft.com/content/dfd9316e-7a19-445a-a781-80197a05d3f3",
     "d": "2026-11-06"
+   }
+  ],
+  "Vodafone": [
+   {
+    "h": "Vodafone raises guidance after job cuts despite €5bn Germany impairment",
+    "u": "https://www.ft.com/content/8c734b5d-aa5a-4ba3-9ddc-b03b0f79cee2?syn-25a6b1a6=1",
+    "d": "2026-11-10"
    }
   ]
  }
