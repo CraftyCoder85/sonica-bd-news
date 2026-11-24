@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T16:57:28.681Z",
+ "updatedAt": "2026-11-24T16:46:04.865Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -50,6 +50,11 @@
    }
   ],
   "BP": [
+   {
+    "h": "Ousted BP chair Albert Manifold to join Aggreko board after IPO",
+    "u": "https://www.ft.com/content/99b832dc-dd09-4eac-8121-dacc246a306e?syn-25a6b1a6=1",
+    "d": "2026-11-24"
+   },
    {
     "h": "How BP and Shell fell out of love with the forecourt",
     "u": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
@@ -151,6 +156,18 @@
     "h": "Imperial Brands to axe up to 4,600 jobs",
     "u": "https://www.ft.com/content/08571146-1ade-440e-b3f8-c2c4c1a6b6e5?syn-25a6b1a6=1",
     "d": "2026-11-17"
+   }
+  ],
+  "Compass Group": [
+   {
+    "h": "Compass reignites City exodus fears",
+    "u": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
+    "d": "2026-11-24"
+   },
+   {
+    "h": "Compass exit should spur London to beef up its bench",
+    "u": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1",
+    "d": "2026-11-24"
    }
   ]
  }
