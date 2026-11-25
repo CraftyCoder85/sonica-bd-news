@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T16:46:04.865Z",
+ "updatedAt": "2026-11-25T16:33:29.249Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -168,6 +168,20 @@
     "h": "Compass exit should spur London to beef up its bench",
     "u": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1",
     "d": "2026-11-24"
+   }
+  ],
+  "Unilever": [
+   {
+    "h": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel",
+    "u": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+    "d": "2026-11-25"
+   }
+  ],
+  "M&G": [
+   {
+    "h": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
+    "u": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
+    "d": "2026-11-25"
    }
   ]
  }
