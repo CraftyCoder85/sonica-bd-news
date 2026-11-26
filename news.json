@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T16:33:29.249Z",
+ "updatedAt": "2026-11-26T16:05:39.397Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -78,11 +78,6 @@
     "h": "Lloyds profits surge as UK hits banks with higher tax",
     "u": "https://www.ft.com/content/6504f32a-5641-410c-9733-955669027cbd?syn-25a6b1a6=1",
     "d": "2026-10-29"
-   },
-   {
-    "h": "Politicians should ‘look at the UK economy as a CEO would’, says Lloyds Bank’s boss",
-    "u": "https://www.ft.com/content/825591c9-b5d6-4a6d-99b1-a00b2cb22fb2?syn-25a6b1a6=1",
-    "d": "2026-10-26"
    }
   ],
   "GSK": [
@@ -152,6 +147,11 @@
    }
   ],
   "Imperial Brands": [
+   {
+    "h": "Altria explores takeover bid for Imperial Brands",
+    "u": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
+    "d": "2026-11-26"
+   },
    {
     "h": "Imperial Brands to axe up to 4,600 jobs",
     "u": "https://www.ft.com/content/08571146-1ade-440e-b3f8-c2c4c1a6b6e5?syn-25a6b1a6=1",
