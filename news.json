@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T15:54:03.617Z",
+ "updatedAt": "2026-11-28T14:49:30.724Z",
  "companies": {
   "HSBC Holdings": [
    {
@@ -75,23 +75,11 @@
     "d": "2026-10-29"
    }
   ],
-  "GSK": [
-   {
-    "h": "GSK shares slide after weaker vaccine sales",
-    "u": "https://www.ft.com/content/a9c75c2d-9267-4098-83b2-2d03f67eaacb?syn-25a6b1a6=1",
-    "d": "2026-10-28"
-   }
-  ],
   "Rio Tinto": [
    {
     "h": "Rio Tinto creates ‘kill zone’ to halt cane toad invasion",
     "u": "https://www.ft.com/content/f43d4e2a-7f11-4d28-a069-d4774bfbd229?syn-25a6b1a6=1",
     "d": "2026-11-03"
-   },
-   {
-    "h": "Rio Tinto proposes 56% pay bump for CEO",
-    "u": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1",
-    "d": "2026-10-28"
    }
   ],
   "Glencore": [
@@ -99,11 +87,6 @@
     "h": "Glencore plans CEO pay overhaul to speed up windfall after any takeover",
     "u": "https://www.ft.com/content/545be7ea-4506-49d6-bf82-59d273e1ef04?syn-25a6b1a6=1",
     "d": "2026-11-02"
-   },
-   {
-    "h": "Glencore boss flags bumper year on asset sales and trading boom",
-    "u": "https://www.ft.com/content/d300d22b-09ec-4ab4-9aa2-e9d18d683766?syn-25a6b1a6=1",
-    "d": "2026-10-28"
    }
   ],
   "NatWest Group": [
@@ -135,6 +118,11 @@
    }
   ],
   "Marks & Spencer": [
+   {
+    "h": "Directors’ Deals: M&S chief offloads shares after they hit multiyear peak",
+    "u": "https://www.ft.com/content/ca9f958e-40a4-4fc4-b300-866343f9228f",
+    "d": "2026-11-27"
+   },
    {
     "h": "The M&S glow-up is starting to charm investors",
     "u": "https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1",
